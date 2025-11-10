@@ -1,0 +1,65 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="accelerate" />
+          <option value="annotated-types" />
+          <option value="click" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="filelock" />
+          <option value="fonttools" />
+          <option value="fsspec" />
+          <option value="gensim" />
+          <option value="hf-xet" />
+          <option value="huggingface-hub" />
+          <option value="ipywidgets" />
+          <option value="jupyter" />
+          <option value="jupyter-console" />
+          <option value="jupyterlab_widgets" />
+          <option value="kiwisolver" />
+          <option value="matplotlib" />
+          <option value="mpmath" />
+          <option value="networkx" />
+          <option value="nltk" />
+          <option value="nvidia-cublas-cu12" />
+          <option value="nvidia-cuda-cupti-cu12" />
+          <option value="nvidia-cuda-nvrtc-cu12" />
+          <option value="nvidia-cuda-runtime-cu12" />
+          <option value="nvidia-cudnn-cu12" />
+          <option value="nvidia-cufft-cu12" />
+          <option value="nvidia-cufile-cu12" />
+          <option value="nvidia-curand-cu12" />
+          <option value="nvidia-cusolver-cu12" />
+          <option value="nvidia-cusparse-cu12" />
+          <option value="nvidia-cusparselt-cu12" />
+          <option value="nvidia-nccl-cu12" />
+          <option value="nvidia-nvjitlink-cu12" />
+          <option value="nvidia-nvtx-cu12" />
+          <option value="ollama" />
+          <option value="overrides" />
+          <option value="pexpect" />
+          <option value="pillow" />
+          <option value="ptyprocess" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pyparsing" />
+          <option value="regex" />
+          <option value="safetensors" />
+          <option value="smart_open" />
+          <option value="sympy" />
+          <option value="tokenizers" />
+          <option value="torch" />
+          <option value="tqdm" />
+          <option value="transformers" />
+          <option value="triton" />
+          <option value="typing-inspection" />
+          <option value="widgetsnbextension" />
+          <option value="wrapt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
