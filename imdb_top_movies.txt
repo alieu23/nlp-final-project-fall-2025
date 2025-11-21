@@ -1,992 +1,992 @@
-1. 12 Angry Men
-2. 12 Monkeys
-3. 12 Years a Slave
-4. 12th Fail
-5. 1917
-6. 2001: A Space Odyssey
-7. 21 Grams
-8. 3 Idiots
-9. 3-Iron
-10. 300
-11. 3:10 to Yuma
-12. 4 Months, 3 Weeks and 2 Days
-13. 500 Days of Summer
-14. 777 Charlie
-15. 8½
-16. 96
-17. A Beautiful Mind
-18. A Bronx Tale
-19. A Christmas Carol
-20. A Christmas Story
-21. A Clockwork Orange
-22. A Few Good Men
-23. A Fistful of Dollars
-24. A Man Called Ove
-25. A Man Escaped
-26. A Man for All Seasons
-27. A Matter of Life and Death
-28. A Moment to Remember
-29. A Night at the Opera
-30. A Place in the Sun
-31. A Prophet
-32. A Separation
-33. A Short Film About Love
-34. A Silent Voice: The Movie
-35. A Streetcar Named Desire
-36. A Taxi Driver
-37. A Wednesday
-38. A Woman Under the Influence
-39. About Elly
-40. About Time
-41. Ace in the Hole
-42. Adam's Apples
-43. Adaptation.
-44. After Hours
-45. Aguirre, the Wrath of God
-46. Airlift
-47. Airplane!
-48. Akira
-49. Aladdin
-50. Alien
-51. Aliens
-52. All About Eve
-53. All About My Mother
-54. All Quiet on the Western Front
-55. All That Jazz
-56. All the President's Men
-57. Almost Famous
-58. Amadeus
-59. Amarcord
-60. American Beauty
-61. American Gangster
-62. American History X
-63. Amores Perros
-64. Amour
-65. Amélie
-66. Anand
-67. Anatomy of a Fall
-68. Anatomy of a Murder
-69. Anbe Sivam
-70. Andaz Apna Apna
-71. Andhadhun
-72. Andrei Rublev
-73. Annie Hall
-74. Another Round
-75. Apocalypse Now
-76. Apocalypto
-77. Apollo 13
-78. Argo
-79. Army of Shadows
-80. Arrival
-81. Arsenic and Old Lace
-82. Article 15
-83. As Good as It Gets
-84. Asuran
-85. Atonement
-86. Au Revoir les Enfants
-87. Autumn Sonata
-88. Avatar
-89. Avengers: Endgame
-90. Avengers: Infinity War
-91. Awakenings
-92. Ayla: The Daughter of War
-93. Baahubali 2: The Conclusion
-94. Baahubali: The Beginning
-95. Baby
-96. Back to the Future
-97. Back to the Future Part II
-98. Badhaai Ho
-99. Badlands
-100. Bajrangi Bhaijaan
-101. Bangalore Days
-102. Barfi!
-103. Barry Lyndon
-104. Batman Begins
-105. Batman: Mask of the Phantasm
-106. Battleship Potemkin
-107. Beasts of No Nation
-108. Beauty and the Beast
-109. Before Midnight
-110. Before Sunrise
-111. Before Sunset
-112. Being John Malkovich
-113. Being There
-114. Ben-Hur
-115. Bhaag Milkha Bhaag
-116. Bicycle Thieves
-117. Big Fish
-118. Big Hero 6
-119. Billy Elliot
-120. Birdman or (The Unexpected Virtue of Ignorance)
-121. Black
-122. Black Book
-123. Black Cat, White Cat
-124. Black Hawk Down
-125. Black Narcissus
-126. Black Swan
-127. Blade Runner
-128. Blade Runner 2049
-129. Blazing Saddles
-130. Blood Diamond
-131. Blood In, Blood Out
-132. Blue Is the Warmest Colour
-133. Blue Velvet
-134. Bohemian Rhapsody
-135. Bonnie and Clyde
-136. Boogie Nights
-137. Boyhood
-138. Boyz n the Hood
-139. Braveheart
-140. Brazil
-141. Breaking the Waves
-142. Breathless
-143. Bride of Frankenstein
-144. Brief Encounter
-145. Bringing Up Baby
-146. Brokeback Mountain
-147. Brother
-148. Butch Cassidy and the Sundance Kid
-149. C.R.A.Z.Y.
-150. CODA
-151. Cabaret
-152. Call Me by Your Name
-153. Cape Fear
-154. Capernaum
-155. Captain America: Civil War
-156. Captain America: The Winter Soldier
-157. Captain Fantastic
-158. Captain Phillips
-159. Carlito's Way
-160. Casablanca
-161. Casino
-162. Casino Royale
-163. Cast Away
-164. Castle in the Sky
-165. Cat on a Hot Tin Roof
-166. Catch Me If You Can
-167. Central Station
-168. Chak De! India
-169. Changeling
-170. Charade
-171. Chhichhore
-172. Children of Heaven
-173. Children of Men
-174. Chinatown
-175. Chungking Express
-176. Cinderella Man
-177. Cinema Paradiso
-178. Citizen Kane
-179. City Lights
-180. City of God
-181. Clerks
-182. Close
-183. Close-Up
-184. Cléo from 5 to 7
-185. Coco
-186. Come and See
-187. Cool Hand Luke
-188. Coraline
-189. Cowboy Bebop: The Movie - Knockin' on Heaven's Door
-190. Crash
-191. Cries & Whispers
-192. Crimes and Misdemeanors
-193. Crouching Tiger, Hidden Dragon
-194. Dallas Buyers Club
-195. Dancer in the Dark
-196. Dances with Wolves
-197. Dangal
-198. Das Boot
-199. Dawn of the Dead
-200. Day for Night
-201. Days of Heaven
-202. Dead Poets Society
-203. Deadpool
-204. Deadpool 2
-205. Deliverance
-206. Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
-207. Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
-208. Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle
-209. Departures
-210. Dersu Uzala
-211. Detachment
-212. Dev.D
-213. Diabolique
-214. Dial M for Murder
-215. Die Hard
-216. Dil Chahta Hai
-217. Dilwale Dulhania Le Jayenge
-218. Dirty Harry
-219. District 9
-220. Django Unchained
-221. Do the Right Thing
-222. Doctor Zhivago
-223. Dog Day Afternoon
-224. Dogville
-225. Donnie Brasco
-226. Donnie Darko
-227. Double Indemnity
-228. Downfall
-229. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-230. Dreams
-231. Drishyam
-232. Drishyam 2
-233. Drive
-234. Duck Soup
-235. Dune: Part One
-236. Dune: Part Two
-237. Dunkirk
-238. E.T. the Extra-Terrestrial
-239. East of Eden
-240. Ed Wood
-241. Edge of Tomorrow
-242. Edward Scissorhands
-243. Elevator to the Gallows
-244. Elite Squad
-245. Elite Squad 2: The Enemy Within
-246. Embrace of the Serpent
-247. Empire of the Sun
-248. English Vinglish
-249. Eternal Sunshine of the Spotless Mind
-250. Evangelion: 2.0 You Can (Not) Advance
-251. Everything Everywhere All at Once
-252. Everything's Gonna Be Great
-253. Evil
-254. Evil Dead II
-255. Ex Machina
-256. F1: The Movie
-257. Fail Safe
-258. Fanny and Alexander
-259. Fantasia
-260. Fantastic Mr. Fox
-261. Farewell My Concubine
-262. Fargo
-263. Ferris Bueller's Day Off
-264. Fiddler on the Roof
-265. Fight Club
-266. Finding Nemo
-267. Finding Neverland
-268. First Blood
-269. Fitzcarraldo
-270. Flipped
-271. Flow
-272. For a Few Dollars More
-273. Ford v Ferrari
-274. Forrest Gump
-275. Frankenstein
-276. Freaks
-277. Fried Green Tomatoes
-278. Frost/Nixon
-279. Full Metal Jacket
-280. G.O.R.A.
-281. Gandhi
-282. Gangs of Wasseypur
-283. Gaslight
-284. Gattaca
-285. Get Out
-286. Ghost in the Shell
-287. Ghostbusters
-288. Gladiator
-289. Glengarry Glen Ross
-290. Glory
-291. Godzilla Minus One
-292. Goldfinger
-293. Gone Girl
-294. Gone with the Wind
-295. Good Bye Lenin!
-296. Good Will Hunting
-297. Goodfellas
-298. Gran Torino
-299. Grave of the Fireflies
-300. Gravity
-301. Great Expectations
-302. Green Book
-303. Groundhog Day
-304. Guardians of the Galaxy
-305. Guardians of the Galaxy Vol. 3
-306. Guess Who's Coming to Dinner
-307. Guilty
-308. Gully Boy
-309. Hachi: A Dog's Tale
-310. Hacksaw Ridge
-311. Haider
-312. Halloween
-313. Hamilton
-314. Hamlet
-315. Hannah and Her Sisters
-316. Happiness
-317. Harakiri
-318. Hard Boiled
-319. Harold and Maude
-320. Harry Potter and the Deathly Hallows: Part 1
-321. Harry Potter and the Deathly Hallows: Part 2
-322. Harry Potter and the Goblet of Fire
-323. Harry Potter and the Prisoner of Azkaban
-324. Harry Potter and the Sorcerer's Stone
-325. Harvey
-326. Head-On
-327. Heat
-328. Hedwig and the Angry Inch
-329. Hell or High Water
-330. Her
-331. Hera Pheri
-332. Hero
-333. Hidden Figures
-334. High Noon
-335. High and Low
-336. Hindi Medium
-337. Hiroshima Mon Amour
-338. His Girl Friday
-339. Home Alone
-340. Hot Fuzz
-341. Hotel Rwanda
-342. How Green Was My Valley
-343. How to Train Your Dragon
-344. How to Train Your Dragon 2
-345. Howl's Moving Castle
-346. Hunt for the Wilderpeople
-347. I Saw the Devil
-348. I Want to Eat Your Pancreas
-349. I'm Still Here
-350. I, Daniel Blake
-351. Ikiru
-352. In Bruges
-353. In Cold Blood
-354. In a Lonely Place
-355. In the Heat of the Night
-356. In the Mood for Love
-357. In the Name of the Father
-358. Incendies
-359. Inception
-360. Indiana Jones and the Last Crusade
-361. Infernal Affairs
-362. Inglourious Basterds
-363. Inherit the Wind
-364. Inside Out
-365. Interstellar
-366. Into the Wild
-367. Invasion of the Body Snatchers
-368. Ip Man
-369. Iron Man
-370. Isle of Dogs
-371. It Happened One Night
-372. It's a Wonderful Life
-373. Ivan's Childhood
-374. JFK
-375. Jab We Met
-376. Jai Bhim
-377. Jaws
-378. Jean de Florette
-379. Jersey
-380. Jo Jeeta Wohi Sikandar
-381. Joint Security Area
-382. Jojo Rabbit
-383. Joker
-384. Judgment at Nuremberg
-385. Jujutsu Kaisen 0
-386. Jurassic Park
-387. K.G.F: Chapter 1
-388. K.G.F: Chapter 2
-389. Kagemusha: The Shadow Warrior
-390. Kahaani
-391. Kaithi
-392. Kal Ho Naa Ho
-393. Kantara
-394. Kantara: A Legend - Chapter 1
-395. Key Largo
-396. Khosla Ka Ghosla!
-397. Kiki's Delivery Service
-398. Kill Bill: Vol. 1
-399. Kill Bill: Vol. 2
-400. Kind Hearts and Coronets
-401. King Kong
-402. Kingsman: The Secret Service
-403. Klaus
-404. Knives Out
-405. Knockin' on Heaven's Door
-406. Kramer vs. Kramer
-407. Kubo and the Two Strings
-408. Kung Fu Hustle
-409. Kung Fu Panda
-410. L'Avventura
-411. L.A. Confidential
-412. La Dolce Vita
-413. La La Land
-414. La Notte
-415. La Strada
-416. La grande illusion
-417. La haine
-418. Lagaan: Once Upon a Time in India
-419. Lage Raho Munna Bhai
-420. Lakshya
-421. Land of Mine
-422. Laura
-423. Lawrence of Arabia
-424. Le Samouraï
-425. Le cercle rouge
-426. Let the Right One In
-427. Letters from Iwo Jima
-428. Life Is Beautiful
-429. Life of Pi
-430. Like Father, Like Son
-431. Like Stars on Earth
-432. Lilya 4-Ever
-433. Lion
-434. Little Miss Sunshine
-435. Little Women
-436. Lock, Stock and Two Smoking Barrels
-437. Logan
-438. Lost Ladies
-439. Lost in Translation
-440. Loving Vincent
-441. Lucky Baskhar
-442. Lucky Number Slevin
-443. Léon: The Professional
-444. M
-445. M.S. Dhoni: The Untold Story
-446. Mad Max: Fury Road
-447. Magnolia
-448. Maharaja
-449. Mahavatar Narsimha
-450. Malcolm X
-451. Man on Fire
-452. Manchester by the Sea
-453. Manhattan
-454. Manjummel Boys
-455. Marriage Story
-456. Mary Poppins
-457. Mary and Max
-458. Masaan
-459. Me and Earl and the Dying Girl
-460. Memento
-461. Memories of Murder
-462. Metropolis
-463. Midnight Cowboy
-464. Midnight in Paris
-465. Mildred Pierce
-466. Millennium Actress
-467. Miller's Crossing
-468. Million Dollar Baby
-469. Minority Report
-470. Miracle in Cell No. 7
-471. Miracle on 34th Street
-472. Mirror
-473. Misery
-474. Mission: Impossible - Fallout
-475. Mississippi Burning
-476. Modern Times
-477. Mommy
-478. Moneyball
-479. Monster
-480. Monsters, Inc.
-481. Monty Python and the Holy Grail
-482. Monty Python's Life of Brian
-483. Moon
-484. Moonrise Kingdom
-485. Mother
-486. Mr. Nobody
-487. Mr. Smith Goes to Washington
-488. Mulan
-489. Mulholland Drive
-490. Munna Bhai M.B.B.S.
-491. My Cousin Vinny
-492. My Darling Clementine
-493. My Fair Lady
-494. My Father and My Son
-495. My Left Foot
-496. My Life as a Zucchini
-497. My Man Godfrey
-498. My Name Is Khan
-499. My Neighbor Totoro
-500. My Sassy Girl
-501. Mystic River
-502. Nausicaä of the Valley of the Wind
-503. Nayakan
-504. Nebraska
-505. Neon Genesis Evangelion: The End of Evangelion
-506. Network
-507. Never Look Away
-508. Night of the Living Dead
-509. Night on Earth
-510. Nightcrawler
-511. Nights of Cabiria
-512. Nine Queens
-513. Ninja Scroll
-514. No Country for Old Men
-515. No Man's Land
-516. Nobody Knows
-517. North by Northwest
-518. Nosferatu: A Symphony of Horror
-519. Nostalghia
-520. Notorious
-521. O Brother, Where Art Thou?
-522. OMG: Oh My God!
-523. Ocean's Eleven
-524. October Sky
-525. Office Space
-526. Oldboy
-527. On the Waterfront
-528. Once
-529. Once Upon a Time in America
-530. Once Upon a Time in Anatolia
-531. Once Upon a Time in the West
-532. Once Upon a Time... in Hollywood
-533. Once Were Warriors
-534. One Battle After Another
-535. One Flew Over the Cuckoo's Nest
-536. Open Your Eyes
-537. Oppenheimer
-538. Ordinary People
-539. Out of the Past
-540. PK
-541. Paan Singh Tomar
-542. Pad Man
-543. Paddington 2
-544. Pan's Labyrinth
-545. Paper Moon
-546. Papillon
-547. Paprika
-548. Parasite
-549. Paris, Texas
-550. Past Lives
-551. Pather Panchali
-552. Paths of Glory
-553. Patton
-554. Perfect Blue
-555. Perfect Days
-556. Perfect Strangers
-557. Persepolis
-558. Persona
-559. Philadelphia
-560. Pink
-561. Pink Floyd: The Wall
-562. Pirates of the Caribbean: The Curse of the Black Pearl
-563. Planet of the Apes
-564. Platoon
-565. Playtime
-566. Ponyo
-567. Poor Things
-568. Porco Rosso
-569. Portrait of a Lady on Fire
-570. Predator
-571. Premam
-572. Pride
-573. Pride & Prejudice
-574. Primal Fear
-575. Princess Mononoke
-576. Prisoners
-577. Psycho
-578. Pulp Fiction
-579. Puss in Boots: The Last Wish
-580. Queen
-581. Quo Vadis, Aida?
-582. RRR
-583. Raatchasan
-584. Raging Bull
-585. Raiders of the Lost Ark
-586. Rain Man
-587. Raise the Red Lantern
-588. Ran
-589. Rang De Basanti
-590. Rangasthalam
-591. Rashomon
-592. Ratatouille
-593. Ray
-594. Rear Window
-595. Rebecca
-596. Red River
-597. Remember the Titans
-598. Requiem for a Dream
-599. Reservoir Dogs
-600. Rififi
-601. Rio Bravo
-602. Road to Perdition
-603. RoboCop
-604. Rocketry: The Nambi Effect
-605. Rocky
-606. Rogue One: A Star Wars Story
-607. Roma
-608. Roman Holiday
-609. Rome, Open City
-610. Room
-611. Rope
-612. Rosemary's Baby
-613. Run Lola Run
-614. Rush
-615. Sanjuro
-616. Sardar Udham
-617. Sarfarosh
-618. Sarpatta Parambarai
-619. Saving Private Ryan
-620. Saw
-621. Scarface
-622. Scent of a Woman
-623. Schindler's List
-624. Se7en
-625. Secrets & Lies
-626. Sense and Sensibility
-627. Serenity
-628. Serpico
-629. Seven Samurai
-630. Shadow of a Doubt
-631. Shaun of the Dead
-632. Sherlock Jr.
-633. Shershaah
-634. Sholay
-635. Shoplifters
-636. Short Term 12
-637. Shrek
-638. Shutter Island
-639. Sicario
-640. Silenced
-641. Silver Linings Playbook
-642. Sin City
-643. Sing Street
-644. Singin' in the Rain
-645. Sirf Ek Bandaa Kaafi Hai
-646. Sita Ramam
-647. Skyfall
-648. Sleuth
-649. Sling Blade
-650. Slumdog Millionaire
-651. Snatch
-652. Society of the Snow
-653. Solaris
-654. Some Like It Hot
-655. Song of the Sea
-656. Soorarai Pottru
-657. Sorcerer
-658. Soul
-659. Sound of Metal
-660. South Park: Bigger, Longer & Uncut
-661. Spartacus
-662. Special 26
-663. Spider-Man: Across the Spider-Verse
-664. Spider-Man: Into the Spider-Verse
-665. Spider-Man: No Way Home
-666. Spirited Away
-667. Spotlight
-668. Spring, Summer, Fall, Winter... and Spring
-669. Stagecoach
-670. Stalag 17
-671. Stalker
-672. Stand by Me
-673. Star Trek
-674. Star Trek II: The Wrath of Khan
-675. Star Trek Into Darkness
-676. Star Wars: Episode III - Revenge of the Sith
-677. Star Wars: Episode IV - A New Hope
-678. Star Wars: Episode V - The Empire Strikes Back
-679. Star Wars: Episode VI - Return of the Jedi
-680. Star Wars: Episode VII - The Force Awakens
-681. Straight Outta Compton
-682. Strangers on a Train
-683. Sullivan's Travels
-684. Sunrise
-685. Sunset Boulevard
-686. Super 30
-687. Swades
-688. Sweet Smell of Success
-689. Tae Guk Gi: The Brotherhood of War
-690. Taken
-691. Talk to Her
-692. Tampopo
-693. Tangerines
-694. Tangled
-695. Taste of Cherry
-696. Taxi Driver
-697. Terminator 2: Judgment Day
-698. That Obscure Object of Desire
-699. The 400 Blows
-700. The Adventures of Robin Hood
-701. The African Queen
-702. The Apartment
-703. The Artist
-704. The Asphalt Jungle
-705. The Avengers
-706. The Bandit
-707. The Banshees of Inisherin
-708. The Batman
-709. The Battle of Algiers
-710. The Best Offer
-711. The Best Years of Our Lives
-712. The Best of Youth
-713. The Big Heat
-714. The Big Lebowski
-715. The Big Short
-716. The Big Sleep
-717. The Birds
-718. The Blues Brothers
-719. The Boondock Saints
-720. The Bourne Identity
-721. The Bourne Supremacy
-722. The Bourne Ultimatum
-723. The Boy in the Striped Pajamas
-724. The Breadwinner
-725. The Breakfast Club
-726. The Breath
-727. The Bridge on the River Kwai
-728. The Broken Circle Breakdown
-729. The Butterfly Effect
-730. The Cabinet of Dr. Caligari
-731. The Celebration
-732. The Chaos Class Failed the Class
-733. The Chaser
-734. The Chorus
-735. The Circus
-736. The Color Purple
-737. The Conformist
-738. The Conversation
-739. The Count of Monte Cristo
-740. The Curious Case of Benjamin Button
-741. The Dark Knight
-742. The Dark Knight Rises
-743. The Day of the Jackal
-744. The Day the Earth Stood Still
-745. The Deer Hunter
-746. The Departed
-747. The Dirty Dozen
-748. The Discreet Charm of the Bourgeoisie
-749. The Diving Bell and the Butterfly
-750. The Edge of Heaven
-751. The Elephant Man
-752. The Exorcist
-753. The Experiment
-754. The Exterminating Angel
-755. The Fall
-756. The Father
-757. The Fifth Element
-758. The Fighter
-759. The French Connection
-760. The Fugitive
-761. The Game
-762. The General
-763. The Gentlemen
-764. The Girl with the Dragon Tattoo
-765. The Godfather
-766. The Godfather Part II
-767. The Gold Rush
-768. The Good, the Bad and the Ugly
-769. The Goonies
-770. The Graduate
-771. The Grand Budapest Hotel
-772. The Grapes of Wrath
-773. The Great Beauty
-774. The Great Dictator
-775. The Great Escape
-776. The Green Mile
-777. The Handmaiden
-778. The Hangover
-779. The Hateful Eight
-780. The Help
-781. The Hidden Fortress
-782. The Hobbit: An Unexpected Journey
-783. The Hobbit: The Desolation of Smaug
-784. The Holdovers
-785. The Holy Mountain
-786. The Hunt
-787. The Hustler
-788. The Imitation Game
-789. The Incredibles
-790. The Innocents
-791. The Insider
-792. The Intouchables
-793. The Invisible Guest
-794. The Irishman
-795. The Iron Giant
-796. The Kid
-797. The Killer
-798. The Killing
-799. The Killing Fields
-800. The King of Comedy
-801. The King's Speech
-802. The Lady Vanishes
-803. The Last Emperor
-804. The Last King of Scotland
-805. The Last Picture Show
-806. The Last Samurai
-807. The Last of the Mohicans
-808. The Legend of 1900
-809. The Lego Movie
-810. The Leopard
-811. The Lion King
-812. The Lion in Winter
-813. The Lives of Others
-814. The Longest Day
-815. The Lord of the Rings: The Fellowship of the Ring
-816. The Lord of the Rings: The Return of the King
-817. The Lord of the Rings: The Two Towers
-818. The Lost Weekend
-819. The Lunchbox
-820. The Machinist
-821. The Magnificent Seven
-822. The Maltese Falcon
-823. The Man Who Shot Liberty Valance
-824. The Man Who Would Be King
-825. The Man from Earth
-826. The Man from Nowhere
-827. The Manchurian Candidate
-828. The Martian
-829. The Matrix
-830. The Message
-831. The Mitchells vs. the Machines
-832. The Motorcycle Diaries
-833. The Muppet Christmas Carol
-834. The Name of the Rose
-835. The Night of the Hunter
-836. The Nightmare Before Christmas
-837. The Notebook
-838. The Others
-839. The Outlaw Josey Wales
-840. The Ox-Bow Incident
-841. The Passion of Joan of Arc
-842. The Past
-843. The Perks of Being a Wallflower
-844. The Philadelphia Story
-845. The Pianist
-846. The Postman
-847. The Prestige
-848. The Princess Bride
-849. The Promised Land
-850. The Purple Rose of Cairo
-851. The Pursuit of Happyness
-852. The Quiet Girl
-853. The Raid 2
-854. The Red Shoes
-855. The Remains of the Day
-856. The Return
-857. The Revenant
-858. The Right Stuff
-859. The Rules of the Game
-860. The Sacrifice
-861. The Salesman
-862. The Sandlot
-863. The Sea Inside
-864. The Searchers
-865. The Secret in Their Eyes
-866. The Seventh Seal
-867. The Shawshank Redemption
-868. The Shining
-869. The Shop Around the Corner
-870. The Silence of the Lambs
-871. The Sixth Sense
-872. The Social Network
-873. The Sound of Music
-874. The Sting
-875. The Straight Story
-876. The Tale of The Princess Kaguya
-877. The Ten Commandments
-878. The Terminator
-879. The Theory of Everything
-880. The Thin Man
-881. The Thing
-882. The Third Man
-883. The Treasure of the Sierra Madre
-884. The Trial of the Chicago 7
-885. The Triplets of Belleville
-886. The Truman Show
-887. The Twilight Samurai
-888. The Umbrellas of Cherbourg
-889. The Untouchables
-890. The Usual Suspects
-891. The Vanishing
-892. The Verdict
-893. The Virgin Spring
-894. The Wages of Fear
-895. The Way He Looks
-896. The Whale
-897. The White Ribbon
-898. The Wild Bunch
-899. The Wild Pear Tree
-900. The Wild Robot
-901. The Wind Rises
-902. The Wizard of Oz
-903. The Wolf of Wall Street
-904. The World's Fastest Indian
-905. The Worst Person in the World
-906. The Wrestler
-907. There Will Be Blood
-908. Thirteen Lives
-909. This Is England
-910. This Is Spinal Tap
-911. Thor: Ragnarok
-912. Three Billboards Outside Ebbing, Missouri
-913. Three Colors: Blue
-914. Three Colors: Red
-915. Throne of Blood
-916. Through a Glass Darkly
-917. Time of the Gypsies
-918. Titanic
-919. To Be or Not to Be
-920. To Have and Have Not
-921. To Kill a Mockingbird
-922. Togo
-923. Tokyo Godfathers
-924. Tokyo Story
-925. Tombstone
-926. Top Gun: Maverick
-927. Touch of Evil
-928. Toy Story
-929. Toy Story 2
-930. Toy Story 3
-931. Toy Story 4
-932. Training Day
-933. Trainspotting
-934. True Grit
-935. True Romance
-936. Tumbbad
-937. Udaan
-938. Ugetsu
-939. Umberto D.
-940. Underground
-941. Unforgiven
-942. Up
-943. Uri: The Surgical Strike
-944. V for Vendetta
-945. Veer-Zaara
-946. Vertigo
-947. Vicky Donor
-948. Vikram
-949. Vikram Vedha
-950. Viridiana
-951. Vivre sa vie
-952. Vizontele
-953. WALL·E
-954. Wait Until Dark
-955. Walk the Line
-956. Warrior
-957. Watchmen
-958. What Ever Happened to Baby Jane?
-959. What We Do in the Shadows
-960. What's Eating Gilbert Grape
-961. When Harry Met Sally...
-962. Whiplash
-963. Whisper of the Heart
-964. White Heat
-965. Who Framed Roger Rabbit
-966. Who's Afraid of Virginia Woolf?
-967. Wild Strawberries
-968. Wild Tales
-969. Willy Wonka & the Chocolate Factory
-970. Wind River
-971. Wings of Desire
-972. Winter Light
-973. Winter Sleep
-974. Witness for the Prosecution
-975. Wolf Children
-976. Wolfwalkers
-977. Wonder
-978. Wreck-It Ralph
-979. X-Men: Days of Future Past
-980. X-Men: First Class
-981. Y tu mamá también
-982. Yi Yi
-983. Yojimbo
-984. You Can't Take It with You
-985. Young Frankenstein
-986. Your Name.
-987. Z
-988. Zack Snyder's Justice League
-989. Zindagi Na Milegi Dobara
-990. Zodiac
-991. Zootopia
-992. Zulu
+12 Angry Men
+12 Monkeys
+12 Years a Slave
+12th Fail
+1917
+2001: A Space Odyssey
+21 Grams
+3 Idiots
+3-Iron
+300
+3:10 to Yuma
+4 Months, 3 Weeks and 2 Days
+500 Days of Summer
+777 Charlie
+8½
+96
+A Beautiful Mind
+A Bronx Tale
+A Christmas Carol
+A Christmas Story
+A Clockwork Orange
+A Few Good Men
+A Fistful of Dollars
+A Man Called Ove
+A Man Escaped
+A Man for All Seasons
+A Matter of Life and Death
+A Moment to Remember
+A Night at the Opera
+A Place in the Sun
+A Prophet
+A Separation
+A Short Film About Love
+A Silent Voice: The Movie
+A Streetcar Named Desire
+A Taxi Driver
+A Wednesday
+A Woman Under the Influence
+About Elly
+About Time
+Ace in the Hole
+Adam's Apples
+Adaptation.
+After Hours
+Aguirre, the Wrath of God
+Airlift
+Airplane!
+Akira
+Aladdin
+Alien
+Aliens
+All About Eve
+All About My Mother
+All Quiet on the Western Front
+All That Jazz
+All the President's Men
+Almost Famous
+Amadeus
+Amarcord
+American Beauty
+American Gangster
+American History X
+Amores Perros
+Amour
+Amélie
+Anand
+Anatomy of a Fall
+Anatomy of a Murder
+Anbe Sivam
+Andaz Apna Apna
+Andhadhun
+Andrei Rublev
+Annie Hall
+Another Round
+Apocalypse Now
+Apocalypto
+Apollo 13
+Argo
+Army of Shadows
+Arrival
+Arsenic and Old Lace
+Article 15
+As Good as It Gets
+Asuran
+Atonement
+Au Revoir les Enfants
+Autumn Sonata
+Avatar
+Avengers: Endgame
+Avengers: Infinity War
+Awakenings
+Ayla: The Daughter of War
+Baahubali 2: The Conclusion
+Baahubali: The Beginning
+Baby
+Back to the Future
+Back to the Future Part II
+Badhaai Ho
+Badlands
+Bajrangi Bhaijaan
+Bangalore Days
+Barfi!
+Barry Lyndon
+Batman Begins
+Batman: Mask of the Phantasm
+Battleship Potemkin
+Beasts of No Nation
+Beauty and the Beast
+Before Midnight
+Before Sunrise
+Before Sunset
+Being John Malkovich
+Being There
+Ben-Hur
+Bhaag Milkha Bhaag
+Bicycle Thieves
+Big Fish
+Big Hero 6
+Billy Elliot
+Birdman or (The Unexpected Virtue of Ignorance)
+Black
+Black Book
+Black Cat, White Cat
+Black Hawk Down
+Black Narcissus
+Black Swan
+Blade Runner
+Blade Runner 2049
+Blazing Saddles
+Blood Diamond
+Blood In, Blood Out
+Blue Is the Warmest Colour
+Blue Velvet
+Bohemian Rhapsody
+Bonnie and Clyde
+Boogie Nights
+Boyhood
+Boyz n the Hood
+Braveheart
+Brazil
+Breaking the Waves
+Breathless
+Bride of Frankenstein
+Brief Encounter
+Bringing Up Baby
+Brokeback Mountain
+Brother
+Butch Cassidy and the Sundance Kid
+C.R.A.Z.Y.
+CODA
+Cabaret
+Call Me by Your Name
+Cape Fear
+Capernaum
+Captain America: Civil War
+Captain America: The Winter Soldier
+Captain Fantastic
+Captain Phillips
+Carlito's Way
+Casablanca
+Casino
+Casino Royale
+Cast Away
+Castle in the Sky
+Cat on a Hot Tin Roof
+Catch Me If You Can
+Central Station
+Chak De! India
+Changeling
+Charade
+Chhichhore
+Children of Heaven
+Children of Men
+Chinatown
+Chungking Express
+Cinderella Man
+Cinema Paradiso
+Citizen Kane
+City Lights
+City of God
+Clerks
+Close
+Close-Up
+Cléo from 5 to 7
+Coco
+Come and See
+Cool Hand Luke
+Coraline
+Cowboy Bebop: The Movie - Knockin' on Heaven's Door
+Crash
+Cries & Whispers
+Crimes and Misdemeanors
+Crouching Tiger, Hidden Dragon
+Dallas Buyers Club
+Dancer in the Dark
+Dances with Wolves
+Dangal
+Das Boot
+Dawn of the Dead
+Day for Night
+Days of Heaven
+Dead Poets Society
+Deadpool
+Deadpool 2
+Deliverance
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc
+Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle
+Departures
+Dersu Uzala
+Detachment
+Dev.D
+Diabolique
+Dial M for Murder
+Die Hard
+Dil Chahta Hai
+Dilwale Dulhania Le Jayenge
+Dirty Harry
+District 9
+Django Unchained
+Do the Right Thing
+Doctor Zhivago
+Dog Day Afternoon
+Dogville
+Donnie Brasco
+Donnie Darko
+Double Indemnity
+Downfall
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Dreams
+Drishyam
+Drishyam 2
+Drive
+Duck Soup
+Dune: Part One
+Dune: Part Two
+Dunkirk
+E.T. the Extra-Terrestrial
+East of Eden
+Ed Wood
+Edge of Tomorrow
+Edward Scissorhands
+Elevator to the Gallows
+Elite Squad
+Elite Squad 2: The Enemy Within
+Embrace of the Serpent
+Empire of the Sun
+English Vinglish
+Eternal Sunshine of the Spotless Mind
+Evangelion: 2.0 You Can (Not) Advance
+Everything Everywhere All at Once
+Everything's Gonna Be Great
+Evil
+Evil Dead II
+Ex Machina
+F1: The Movie
+Fail Safe
+Fanny and Alexander
+Fantasia
+Fantastic Mr. Fox
+Farewell My Concubine
+Fargo
+Ferris Bueller's Day Off
+Fiddler on the Roof
+Fight Club
+Finding Nemo
+Finding Neverland
+First Blood
+Fitzcarraldo
+Flipped
+Flow
+For a Few Dollars More
+Ford v Ferrari
+Forrest Gump
+Frankenstein
+Freaks
+Fried Green Tomatoes
+Frost/Nixon
+Full Metal Jacket
+G.O.R.A.
+Gandhi
+Gangs of Wasseypur
+Gaslight
+Gattaca
+Get Out
+Ghost in the Shell
+Ghostbusters
+Gladiator
+Glengarry Glen Ross
+Glory
+Godzilla Minus One
+Goldfinger
+Gone Girl
+Gone with the Wind
+Good Bye Lenin!
+Good Will Hunting
+Goodfellas
+Gran Torino
+Grave of the Fireflies
+Gravity
+Great Expectations
+Green Book
+Groundhog Day
+Guardians of the Galaxy
+Guardians of the Galaxy Vol. 3
+Guess Who's Coming to Dinner
+Guilty
+Gully Boy
+Hachi: A Dog's Tale
+Hacksaw Ridge
+Haider
+Halloween
+Hamilton
+Hamlet
+Hannah and Her Sisters
+Happiness
+Harakiri
+Hard Boiled
+Harold and Maude
+Harry Potter and the Deathly Hallows: Part 1
+Harry Potter and the Deathly Hallows: Part 2
+Harry Potter and the Goblet of Fire
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Sorcerer's Stone
+Harvey
+Head-On
+Heat
+Hedwig and the Angry Inch
+Hell or High Water
+Her
+Hera Pheri
+Hero
+Hidden Figures
+High Noon
+High and Low
+Hindi Medium
+Hiroshima Mon Amour
+His Girl Friday
+Home Alone
+Hot Fuzz
+Hotel Rwanda
+How Green Was My Valley
+How to Train Your Dragon
+How to Train Your Dragon 2
+Howl's Moving Castle
+Hunt for the Wilderpeople
+I Saw the Devil
+I Want to Eat Your Pancreas
+I'm Still Here
+I, Daniel Blake
+Ikiru
+In Bruges
+In Cold Blood
+In a Lonely Place
+In the Heat of the Night
+In the Mood for Love
+In the Name of the Father
+Incendies
+Inception
+Indiana Jones and the Last Crusade
+Infernal Affairs
+Inglourious Basterds
+Inherit the Wind
+Inside Out
+Interstellar
+Into the Wild
+Invasion of the Body Snatchers
+Ip Man
+Iron Man
+Isle of Dogs
+It Happened One Night
+It's a Wonderful Life
+Ivan's Childhood
+JFK
+Jab We Met
+Jai Bhim
+Jaws
+Jean de Florette
+Jersey
+Jo Jeeta Wohi Sikandar
+Joint Security Area
+Jojo Rabbit
+Joker
+Judgment at Nuremberg
+Jujutsu Kaisen 0
+Jurassic Park
+K.G.F: Chapter 1
+K.G.F: Chapter 2
+Kagemusha: The Shadow Warrior
+Kahaani
+Kaithi
+Kal Ho Naa Ho
+Kantara
+Kantara: A Legend - Chapter 1
+Key Largo
+Khosla Ka Ghosla!
+Kiki's Delivery Service
+Kill Bill: Vol. 1
+Kill Bill: Vol. 2
+Kind Hearts and Coronets
+King Kong
+Kingsman: The Secret Service
+Klaus
+Knives Out
+Knockin' on Heaven's Door
+Kramer vs. Kramer
+Kubo and the Two Strings
+Kung Fu Hustle
+Kung Fu Panda
+L'Avventura
+L.A. Confidential
+La Dolce Vita
+La La Land
+La Notte
+La Strada
+La grande illusion
+La haine
+Lagaan: Once Upon a Time in India
+Lage Raho Munna Bhai
+Lakshya
+Land of Mine
+Laura
+Lawrence of Arabia
+Le Samouraï
+Le cercle rouge
+Let the Right One In
+Letters from Iwo Jima
+Life Is Beautiful
+Life of Pi
+Like Father, Like Son
+Like Stars on Earth
+Lilya 4-Ever
+Lion
+Little Miss Sunshine
+Little Women
+Lock, Stock and Two Smoking Barrels
+Logan
+Lost Ladies
+Lost in Translation
+Loving Vincent
+Lucky Baskhar
+Lucky Number Slevin
+Léon: The Professional
+M
+M.S. Dhoni: The Untold Story
+Mad Max: Fury Road
+Magnolia
+Maharaja
+Mahavatar Narsimha
+Malcolm X
+Man on Fire
+Manchester by the Sea
+Manhattan
+Manjummel Boys
+Marriage Story
+Mary Poppins
+Mary and Max
+Masaan
+Me and Earl and the Dying Girl
+Memento
+Memories of Murder
+Metropolis
+Midnight Cowboy
+Midnight in Paris
+Mildred Pierce
+Millennium Actress
+Miller's Crossing
+Million Dollar Baby
+Minority Report
+Miracle in Cell No. 7
+Miracle on 34th Street
+Mirror
+Misery
+Mission: Impossible - Fallout
+Mississippi Burning
+Modern Times
+Mommy
+Moneyball
+Monster
+Monsters, Inc.
+Monty Python and the Holy Grail
+Monty Python's Life of Brian
+Moon
+Moonrise Kingdom
+Mother
+Mr. Nobody
+Mr. Smith Goes to Washington
+Mulan
+Mulholland Drive
+Munna Bhai M.B.B.S.
+My Cousin Vinny
+My Darling Clementine
+My Fair Lady
+My Father and My Son
+My Left Foot
+My Life as a Zucchini
+My Man Godfrey
+My Name Is Khan
+My Neighbor Totoro
+My Sassy Girl
+Mystic River
+Nausicaä of the Valley of the Wind
+Nayakan
+Nebraska
+Neon Genesis Evangelion: The End of Evangelion
+Network
+Never Look Away
+Night of the Living Dead
+Night on Earth
+Nightcrawler
+Nights of Cabiria
+Nine Queens
+Ninja Scroll
+No Country for Old Men
+No Man's Land
+Nobody Knows
+North by Northwest
+Nosferatu: A Symphony of Horror
+Nostalghia
+Notorious
+O Brother, Where Art Thou?
+OMG: Oh My God!
+Ocean's Eleven
+October Sky
+Office Space
+Oldboy
+On the Waterfront
+Once
+Once Upon a Time in America
+Once Upon a Time in Anatolia
+Once Upon a Time in the West
+Once Upon a Time... in Hollywood
+Once Were Warriors
+One Battle After Another
+One Flew Over the Cuckoo's Nest
+Open Your Eyes
+Oppenheimer
+Ordinary People
+Out of the Past
+PK
+Paan Singh Tomar
+Pad Man
+Paddington 2
+Pan's Labyrinth
+Paper Moon
+Papillon
+Paprika
+Parasite
+Paris, Texas
+Past Lives
+Pather Panchali
+Paths of Glory
+Patton
+Perfect Blue
+Perfect Days
+Perfect Strangers
+Persepolis
+Persona
+Philadelphia
+Pink
+Pink Floyd: The Wall
+Pirates of the Caribbean: The Curse of the Black Pearl
+Planet of the Apes
+Platoon
+Playtime
+Ponyo
+Poor Things
+Porco Rosso
+Portrait of a Lady on Fire
+Predator
+Premam
+Pride
+Pride & Prejudice
+Primal Fear
+Princess Mononoke
+Prisoners
+Psycho
+Pulp Fiction
+Puss in Boots: The Last Wish
+Queen
+Quo Vadis, Aida?
+RRR
+Raatchasan
+Raging Bull
+Raiders of the Lost Ark
+Rain Man
+Raise the Red Lantern
+Ran
+Rang De Basanti
+Rangasthalam
+Rashomon
+Ratatouille
+Ray
+Rear Window
+Rebecca
+Red River
+Remember the Titans
+Requiem for a Dream
+Reservoir Dogs
+Rififi
+Rio Bravo
+Road to Perdition
+RoboCop
+Rocketry: The Nambi Effect
+Rocky
+Rogue One: A Star Wars Story
+Roma
+Roman Holiday
+Rome, Open City
+Room
+Rope
+Rosemary's Baby
+Run Lola Run
+Rush
+Sanjuro
+Sardar Udham
+Sarfarosh
+Sarpatta Parambarai
+Saving Private Ryan
+Saw
+Scarface
+Scent of a Woman
+Schindler's List
+Se7en
+Secrets & Lies
+Sense and Sensibility
+Serenity
+Serpico
+Seven Samurai
+Shadow of a Doubt
+Shaun of the Dead
+Sherlock Jr.
+Shershaah
+Sholay
+Shoplifters
+Short Term 12
+Shrek
+Shutter Island
+Sicario
+Silenced
+Silver Linings Playbook
+Sin City
+Sing Street
+Singin' in the Rain
+Sirf Ek Bandaa Kaafi Hai
+Sita Ramam
+Skyfall
+Sleuth
+Sling Blade
+Slumdog Millionaire
+Snatch
+Society of the Snow
+Solaris
+Some Like It Hot
+Song of the Sea
+Soorarai Pottru
+Sorcerer
+Soul
+Sound of Metal
+South Park: Bigger, Longer & Uncut
+Spartacus
+Special 26
+Spider-Man: Across the Spider-Verse
+Spider-Man: Into the Spider-Verse
+Spider-Man: No Way Home
+Spirited Away
+Spotlight
+Spring, Summer, Fall, Winter... and Spring
+Stagecoach
+Stalag 17
+Stalker
+Stand by Me
+Star Trek
+Star Trek II: The Wrath of Khan
+Star Trek Into Darkness
+Star Wars: Episode III - Revenge of the Sith
+Star Wars: Episode IV - A New Hope
+Star Wars: Episode V - The Empire Strikes Back
+Star Wars: Episode VI - Return of the Jedi
+Star Wars: Episode VII - The Force Awakens
+Straight Outta Compton
+Strangers on a Train
+Sullivan's Travels
+Sunrise
+Sunset Boulevard
+Super 30
+Swades
+Sweet Smell of Success
+Tae Guk Gi: The Brotherhood of War
+Taken
+Talk to Her
+Tampopo
+Tangerines
+Tangled
+Taste of Cherry
+Taxi Driver
+Terminator 2: Judgment Day
+That Obscure Object of Desire
+The 400 Blows
+The Adventures of Robin Hood
+The African Queen
+The Apartment
+The Artist
+The Asphalt Jungle
+The Avengers
+The Bandit
+The Banshees of Inisherin
+The Batman
+The Battle of Algiers
+The Best Offer
+The Best Years of Our Lives
+The Best of Youth
+The Big Heat
+The Big Lebowski
+The Big Short
+The Big Sleep
+The Birds
+The Blues Brothers
+The Boondock Saints
+The Bourne Identity
+The Bourne Supremacy
+The Bourne Ultimatum
+The Boy in the Striped Pajamas
+The Breadwinner
+The Breakfast Club
+The Breath
+The Bridge on the River Kwai
+The Broken Circle Breakdown
+The Butterfly Effect
+The Cabinet of Dr. Caligari
+The Celebration
+The Chaos Class Failed the Class
+The Chaser
+The Chorus
+The Circus
+The Color Purple
+The Conformist
+The Conversation
+The Count of Monte Cristo
+The Curious Case of Benjamin Button
+The Dark Knight
+The Dark Knight Rises
+The Day of the Jackal
+The Day the Earth Stood Still
+The Deer Hunter
+The Departed
+The Dirty Dozen
+The Discreet Charm of the Bourgeoisie
+The Diving Bell and the Butterfly
+The Edge of Heaven
+The Elephant Man
+The Exorcist
+The Experiment
+The Exterminating Angel
+The Fall
+The Father
+The Fifth Element
+The Fighter
+The French Connection
+The Fugitive
+The Game
+The General
+The Gentlemen
+The Girl with the Dragon Tattoo
+The Godfather
+The Godfather Part II
+The Gold Rush
+The Good, the Bad and the Ugly
+The Goonies
+The Graduate
+The Grand Budapest Hotel
+The Grapes of Wrath
+The Great Beauty
+The Great Dictator
+The Great Escape
+The Green Mile
+The Handmaiden
+The Hangover
+The Hateful Eight
+The Help
+The Hidden Fortress
+The Hobbit: An Unexpected Journey
+The Hobbit: The Desolation of Smaug
+The Holdovers
+The Holy Mountain
+The Hunt
+The Hustler
+The Imitation Game
+The Incredibles
+The Innocents
+The Insider
+The Intouchables
+The Invisible Guest
+The Irishman
+The Iron Giant
+The Kid
+The Killer
+The Killing
+The Killing Fields
+The King of Comedy
+The King's Speech
+The Lady Vanishes
+The Last Emperor
+The Last King of Scotland
+The Last Picture Show
+The Last Samurai
+The Last of the Mohicans
+The Legend of 1900
+The Lego Movie
+The Leopard
+The Lion King
+The Lion in Winter
+The Lives of Others
+The Longest Day
+The Lord of the Rings: The Fellowship of the Ring
+The Lord of the Rings: The Return of the King
+The Lord of the Rings: The Two Towers
+The Lost Weekend
+The Lunchbox
+The Machinist
+The Magnificent Seven
+The Maltese Falcon
+The Man Who Shot Liberty Valance
+The Man Who Would Be King
+The Man from Earth
+The Man from Nowhere
+The Manchurian Candidate
+The Martian
+The Matrix
+The Message
+The Mitchells vs. the Machines
+The Motorcycle Diaries
+The Muppet Christmas Carol
+The Name of the Rose
+The Night of the Hunter
+The Nightmare Before Christmas
+The Notebook
+The Others
+The Outlaw Josey Wales
+The Ox-Bow Incident
+The Passion of Joan of Arc
+The Past
+The Perks of Being a Wallflower
+The Philadelphia Story
+The Pianist
+The Postman
+The Prestige
+The Princess Bride
+The Promised Land
+The Purple Rose of Cairo
+The Pursuit of Happyness
+The Quiet Girl
+The Raid 2
+The Red Shoes
+The Remains of the Day
+The Return
+The Revenant
+The Right Stuff
+The Rules of the Game
+The Sacrifice
+The Salesman
+The Sandlot
+The Sea Inside
+The Searchers
+The Secret in Their Eyes
+The Seventh Seal
+The Shawshank Redemption
+The Shining
+The Shop Around the Corner
+The Silence of the Lambs
+The Sixth Sense
+The Social Network
+The Sound of Music
+The Sting
+The Straight Story
+The Tale of The Princess Kaguya
+The Ten Commandments
+The Terminator
+The Theory of Everything
+The Thin Man
+The Thing
+The Third Man
+The Treasure of the Sierra Madre
+The Trial of the Chicago 7
+The Triplets of Belleville
+The Truman Show
+The Twilight Samurai
+The Umbrellas of Cherbourg
+The Untouchables
+The Usual Suspects
+The Vanishing
+The Verdict
+The Virgin Spring
+The Wages of Fear
+The Way He Looks
+The Whale
+The White Ribbon
+The Wild Bunch
+The Wild Pear Tree
+The Wild Robot
+The Wind Rises
+The Wizard of Oz
+The Wolf of Wall Street
+The World's Fastest Indian
+The Worst Person in the World
+The Wrestler
+There Will Be Blood
+Thirteen Lives
+This Is England
+This Is Spinal Tap
+Thor: Ragnarok
+Three Billboards Outside Ebbing, Missouri
+Three Colors: Blue
+Three Colors: Red
+Throne of Blood
+Through a Glass Darkly
+Time of the Gypsies
+Titanic
+To Be or Not to Be
+To Have and Have Not
+To Kill a Mockingbird
+Togo
+Tokyo Godfathers
+Tokyo Story
+Tombstone
+Top Gun: Maverick
+Touch of Evil
+Toy Story
+Toy Story 2
+Toy Story 3
+Toy Story 4
+Training Day
+Trainspotting
+True Grit
+True Romance
+Tumbbad
+Udaan
+Ugetsu
+Umberto D.
+Underground
+Unforgiven
+Up
+Uri: The Surgical Strike
+V for Vendetta
+Veer-Zaara
+Vertigo
+Vicky Donor
+Vikram
+Vikram Vedha
+Viridiana
+Vivre sa vie
+Vizontele
+WALL·E
+Wait Until Dark
+Walk the Line
+Warrior
+Watchmen
+What Ever Happened to Baby Jane?
+What We Do in the Shadows
+What's Eating Gilbert Grape
+When Harry Met Sally...
+Whiplash
+Whisper of the Heart
+White Heat
+Who Framed Roger Rabbit
+Who's Afraid of Virginia Woolf?
+Wild Strawberries
+Wild Tales
+Willy Wonka & the Chocolate Factory
+Wind River
+Wings of Desire
+Winter Light
+Winter Sleep
+Witness for the Prosecution
+Wolf Children
+Wolfwalkers
+Wonder
+Wreck-It Ralph
+X-Men: Days of Future Past
+X-Men: First Class
+Y tu mamá también
+Yi Yi
+Yojimbo
+You Can't Take It with You
+Young Frankenstein
+Your Name.
+Z
+Zack Snyder's Justice League
+Zindagi Na Milegi Dobara
+Zodiac
+Zootopia
+Zulu

@@ -122,7 +122,7 @@ def save_to_file(movies, filename="imdb_top_movies.txt"):
     try:
         with open(filename, "w", encoding="utf-8") as f:
             for i, movie in enumerate(movies, 1):
-                f.write(f"{i}. {movie}\n")
+                f.write(f"{movie}\n")
         print(f"\n✓ Saved to {filename}")
     except Exception as e:
         print(f"\n✗ Error saving file: {e}")
