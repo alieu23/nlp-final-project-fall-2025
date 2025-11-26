@@ -1,0 +1,5 @@
+.venv/
+.idea/
+distilbert-enitity-aware/
+distilbert-enitity-fast/
+
