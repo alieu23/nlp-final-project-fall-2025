@@ -23,8 +23,8 @@ i m thinking of a movie where the wimpy main character befriends a fierce animal
 what film did billy bob thornton win an oscar for writing,['billy bob thornton'],[],1
 what 1979 musical is loosely based on the life and career of the film s director bob fosse,[],['bob fosse'],0
 while shooting this pivotal counterculture film paul newman was said to have eaten over fifty boiled eggs in a single afternoon,['paul newman'],[],0
-what 2012 movie revived the american pie chain by bringing back jason biggs alyson hannigan and most of the rest of the cast from the original film,['jason biggs alyson hannigan'],[],1
-based on a graphic novel this film stars actor mickey rourke and features others such as jessica alba carla gugino bruce willis and tobey maguire,"['mickey rourke', 'jessica alba carla gugino bruce willis and tobey maguire']",[],1
+what 2012 movie revived the american pie chain by bringing back jason biggs alyson hannigan and most of the rest of the cast from the original film,"['jason biggs', 'alyson hannigan']",[],1
+based on a graphic novel this film stars actor mickey rourke and features others such as jessica alba carla gugino bruce willis and tobey maguire,"['mickey rourke', 'jessica alba', 'carla gugino', 'bruce willis', 'tobey maguire']",[],1
 what 2000 movie is the story of two warriors chasing down a stolen sword run into a skilled nobleman s daughter,[],[],1
 i m thinking of a movie with leo dicaprio in which he enters the human mind through their dreams,['leo dicaprio'],[],1
 a young girl lets three strangers escort her to see a strange gentleman that is fond of magic tricks,[],[],1
@@ -202,7 +202,7 @@ i am thinking of a film that stars queen latifah and dolly parton as leaders of 
 what is the tyler perry movie where that big black woman has to be exported to protect herself,[],['tyler perry'],0
 surely you must know the 1980 comedy directed by the zucker brothers and jim abrahams,[],"['zucker brothers', 'jim abrahams']",1
 even if this movie s title is lacking the phrase of mars it was inspired by an edgar rice burroughs short story,[],[],0
-goldie hawn bette midler and diane keaton star in this 1996 about divorce and revenge,"['goldie hawn bette midler', 'diane keaton']",[],1
+goldie hawn bette midler and diane keaton star in this 1996 about divorce and revenge,"['goldie hawn', 'bette midler', 'diane keaton']",[],1
 what is the movie based on a comic strip that is about a large great dane,[],[],0
 in what movie does a boy have to fight his future girlfriend s crazy and villianous ex boyfriends in order to be with her,[],[],0
 what is the name of that war movie directed by steven spielberg where tom hanks plays a soldier looking for his brother played by matt damon,"['tom hanks', 'matt damon']",['steven spielberg'],1
@@ -291,19 +291,19 @@ the neighboring gardens of montague and capulet are at war in this 2011 family a
 what is the beatles film which is about the band preparing for a television appearance,['beatles'],[],1
 this famous slasher film featured a killer wearing a mask based upon william shatner s likeness,[],[],0
 what is the 1979 movie by steven spielberg that features the line i love the smell of napalm in the morning and stars martin sheen and marlon brando,"['martin sheen', 'marlon brando']",['steven spielberg'],1
-a bright computer animated 2012 film with an all star cast including danny devito zac efron and taylor swift depicting the inhabitants of thneedville,"['danny devito zac efron', 'taylor swift']",[],1
+a bright computer animated 2012 film with an all star cast including danny devito zac efron and taylor swift depicting the inhabitants of thneedville,"['danny devito', 'zac efron', 'taylor swift']",[],1
 what is the name of wes craven s 1984 classic horror film,[],['wes craven'],1
 i m thinking of a movie that was made in 1984 and remade in 2012 in which the plot features a group of american teenagers defending their town against foreign invaders,[],[],0
 what is the 1994 movie directed by quentin tarantino that stars john travolta and uma thurman in stories about hitman bandits a boxer and a gangster s wife,"['john travolta', 'uma thurman']",['quentin tarantino'],1
 what s the name of that movie with cher in it and it was set in a women s prison,['cher'],[],0
-what was the name of the movie based on a novel starring tommy lee jones javier bardem,['tommy lee jones javier bardem'],[],0
+what was the name of the movie based on a novel starring tommy lee jones javier bardem,"['tommy lee jones', 'javier bardem']",[],0
 this is a 1975 film directed by steven spielberg about a shark that also stars roy scheider,['roy scheider'],['steven spielberg'],1
 what is that 2010 horror film that is about seven connected children who are stalked by a serial killer,[],[],0
 i m thinking of the 1998 animated movie depicting a totalitarian society starring a neurotic bug,[],[],0
 i m thinking of a film that features an adventurous archaeologist who searches egypt for an ancient biblical relic,[],[],1
 what is that 1993 film starring sylvester stallone as a mountain climber and has john lithgow in the role of a villain,"['sylvester stallone', 'john lithgow']",[],1
 what is the title of this film about a boy wizard and his friends that look to destroy magic charms that contain the soul of a dark magician,[],[],1
-what is the film where julia roberts stars alongside power actresses sally field olympia dukakis and shirley macclaine,"['julia roberts', 'sally field olympia dukakis and shirley macclaine']",[],1
+what is the film where julia roberts stars alongside power actresses sally field olympia dukakis and shirley macclaine,"['julia roberts', 'sally field', 'olympia dukakis','shirley macclaine']",[],1
 what is the 2010 movie re make starring jeff bridges about a u s marshall helping a girl track down her father s killer,['jeff bridges'],[],0
 what animated comedy film from 2010 starred steve carrell as a super villain who adopts three girls,['steve carrell'],[],1
 edward g robinson became a big star after portraying rico bandello in this 1931 picture,['edward g robinson'],[],1
@@ -417,13 +417,13 @@ what is the animated movie revealing the high tech way santa runs the north pole
 i m thinking of a classic where a giant gorilla takes a damsel hostage and climbs buildings,[],[],1
 what movie stars brendan fraser and rachel weisz who seek ancient treasure in the ancient city of hamunaptra,"['brendan fraser', 'rachel weisz']",[],1
 this 2009 movie was remade from a japanese anime about a young robot who is made from the image of a scientist s son,[],[],0
-this 1995 thriller featured a the dynamic trio of morgan freeman brad pitt and kevin spacey in an examination of mans deadly sins,"['morgan freeman brad pitt', 'kevin spacey']",[],1
+this 1995 thriller featured a the dynamic trio of morgan freeman brad pitt and kevin spacey in an examination of mans deadly sins,"['morgan freeman', 'brad pitt', 'kevin spacey']",[],1
 what is the name of this musical movie about the rivalry between the sharks and jets,[],[],1
 robert altman directed warren beatty and an oscar nominated julie christie in this 1971 western,"['warren beatty', 'julie christie']",['robert altman'],1
 what is the movie where bow wow wins a raffle and becomes rich in a ghetto neighborhood,['bow wow'],[],1
 what 1984 slasher flick propelled robert englund to stardom as a deformed serial killer that you hope you never dream about,['robert englund'],[],1
 what movie is about work superiors hosting a dinner celebrating the idiocy of their guests a rising executive questions it when he s invited just as he befriends a man who would be the perfect guest,[],[],0
-what is the movie from 1994 starring uma thurman john travolta and samuel l jackson about 2 mob men and direction by quentin tarantino,"['uma thurman john travolta', 'samuel l jackson']",['quentin tarantino'],1
+what is the movie from 1994 starring uma thurman john travolta and samuel l jackson about 2 mob men and direction by quentin tarantino,"['uma thurman', 'john travolta', 'samuel l jackson']",['quentin tarantino'],1
 name stanley cubric s 1968 classic epic sci fi picture,[],['stanley cubric'],1
 one of mel gibson s claims to acting fame this movie takes place in the scottish highlands,['mel gibson'],[],1
 what is the 2001 movie about a young girl played by anne hathaway who learns that she is the heir to the throne of genovia,['anne hathaway'],[],1
@@ -463,7 +463,7 @@ what is the name of this animated movie based on a book where food rains down fr
 what is the name of that steve martin movie where his daughter is about to be married,['steve martin'],[],0
 what 1954 alfred hitchcock classic starring jimmy stewart is about a man who witnesses a murder from his apartment,['jimmy stewart'],['alfred hitchcock'],1
 what is the name of this disney movie starring julie andrews as a nanny with a flying umbrella,['julie andrews'],[],0
-a 1965 movie about a russian doctor and poet starring omar sharif julie christie and geraldine chaplin,['omar sharif julie christie and geraldine chaplin'],[],1
+a 1965 movie about a russian doctor and poet starring omar sharif julie christie and geraldine chaplin,"['omar sharif', 'julie christie', 'geraldine chaplin']",[],1
 what is the shocking john water s movie about the search for the world s filthiest people,[],['john water'],0
 in what movie does a girl with the help of her extremely long and magical hair find her way back to her original family after being kidnapped by a witch,[],[],1
 what s the comedy where two families not at all alike meet at martha s vineyard for a wedding,[],[],0
@@ -482,7 +482,7 @@ name the possession film from 2011 based on the catholic church and how they can
 what s the movie where a naive bucked tooth guy decides to break into the pornography industry,[],[],0
 this is a 1941 movie directed by orson welles about the last words of a newspaper tycoon,[],['orson welles'],0
 in what movie does an alien have the ability to turn itself invisible while hunting,[],[],0
-what 1972 movie featured burt reynolds jon voight ned beatty and ronnie cox as friends out on a river trip,"['burt reynolds jon voight ned beatty', 'ronnie cox']",[],1
+what 1972 movie featured burt reynolds jon voight ned beatty and ronnie cox as friends out on a river trip,"['burt reynolds', 'jon voight', 'ned beatty', 'ronnie cox']",[],1
 a family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence while his psychic son sees horrific forebodings from the past and of the future in this 1980 horror movie based on stephen king s novel,[],[],0
 in this movie an errant united states bomber drops a nuclear warhead on russia due to the schemes of a mad general,[],[],0
 what 2010 movie starring liam neeson and bradley cooper was based on a popular 1980 s television series of the same name,"['liam neeson', 'bradley cooper']",[],1
@@ -498,7 +498,7 @@ this 2010 romantic comedy starred jennifer lopez and alex o loughlin and was tom
 jim carrey shaved his hairline back because he thought of his character steven russell as a very cerebral person in this 2009 comedy drama,['jim carrey'],[],0
 what s the name of the movie about a childish yet brilliant eighteenth century vienna composer,[],[],0
 the movie where the dude got drunk in the car and threw up on the way to the wedding,[],[],0
-which film was directed by wes andersen and features gene hackman jason schwartzman and ben stiller,"['gene hackman jason schwartzman', 'ben stiller']",['wes andersen'],1
+which film was directed by wes andersen and features gene hackman jason schwartzman and ben stiller,"['gene hackman', 'jason schwartzman', 'ben stiller']",['wes andersen'],1
 what 1977 woody allen comedy started a menswear for women fashion trend and beat out star wars for the best picture oscar,[],['woody allen'],1
 what is that comedy flim starring gerard butler and jennifer aniston about a bounty hunter that has to retrieve his ex wife who has skipped bail,"['gerard butler', 'jennifer aniston']",[],0
 this 2010 movie starring sylvester stallone is filled with iconic action stars playing mercenaries hired by the cia,['sylvester stallone'],[],1
@@ -508,7 +508,7 @@ i am thinking of a film about a filmmaker who fondly remembers his boyhood and h
 what movie is a shakespeare inspired love story set in a modern setting starring heath ledger and julia stiles,"['heath ledger', 'julia stiles']",[],1
 what s the name of a movie with an emotional twist about dead people,[],[],0
 in what steven spielberg blockbuster movie did the candy reese s pieces play an important role,[],['steven spielberg'],1
-what is that ensemble film that takes place in new york on new year s eve and features a cast including ashton kutcher eva mendes jon bon jovi among others,['ashton kutcher eva mendes jon bon jovi'],[],1
+what is that ensemble film that takes place in new york on new year s eve and features a cast including ashton kutcher eva mendes jon bon jovi among others,"['ashton kutcher', 'eva mendes', 'jon bon jovi']",[],1
 what movie stars andrew garfield and emma stone together as the main leads,"['andrew garfield', 'emma stone']",[],1
 what is the classic 1982 sci fi movie starring harrison ford as the lead character rick deckard,['harrison ford'],[],1
 this movie featured a young arnold schwarzenegger as a cyborg who uttered phrases such as i ll be back,['arnold schwarzenegger'],[],1
@@ -520,7 +520,7 @@ what is the name of that western movie starring clint eastwood where he was hung
 what is that louisa may alcott s story about three sisters growing up in the 1860 s,[],[],1
 this ethereal chinese film tells the story of two warriors searching for a stolen sword,[],[],1
 a boy has to kill his golden retriever after he gets rabies and tries to bite people,[],[],0
-i m thinking of a 1995 drama that was directed by martin scorsese starring robert de niro sharon stone and joe pesci and set in las vegas,"['robert de niro sharon stone', 'joe pesci']",['martin scorsese'],1
+i m thinking of a 1995 drama that was directed by martin scorsese starring robert de niro sharon stone and joe pesci and set in las vegas,"['robert de niro', 'sharon stone', 'joe pesci']",['martin scorsese'],1
 what s the name of the kurosawa film that is a japanese retelling of shakespeare s macbeth,[],['kurosawa'],1
 what 2012 film is a remake of a popular 80 s television show which starred johnny depp,['johnny depp'],[],0
 i m thinking of a romantic classic starring tom hanks and meg ryan about a widowed man and his son,"['tom hanks', 'meg ryan']",[],1
@@ -554,11 +554,11 @@ what is the futuristic 2012 movie about a cop tracking down a gang of reality dr
 roddy mcdowall starred in this 1943 film about a boy given a horse to raise,['roddy mcdowall'],[],1
 what is that 2008 british drama film directed by danny boyle about an indian teenager who is playing who wants to be a millionaire,[],['danny boyle'],1
 what is the movie about a convict who gets released from prison and sets about terrorizing the da who put him away,[],[],0
-bette davis paul henreid and claude rains starred in this 1942 romantic film,"['bette davis paul henreid', 'claude rains']",[],1
+bette davis paul henreid and claude rains starred in this 1942 romantic film,"['bette davis', 'paul henreid', 'claude rains']",[],1
 what 2012 film the fourth in a series starred kathryn mccormick from the show so you think you can dance,['kathryn mccormick'],[],1
 in what movie does kevin costner as elliot ness team up with sean connery to take down al capone played by robert de niro,"['kevin costner', 'sean connery', 'robert de niro']",[],1
 which american 1984 rock and roll musical mock documentary directed by rob reiner is about the fictional heavy metal music band,[],['rob reiner'],1
-a mean girls for adult woman this 2011 comedy has jamie lee curtis signorney weaver kristen bell and betty white against each other in a war of she said she said,"['jamie lee curtis signorney weaver kristen bell', 'betty white']",[],0
+a mean girls for adult woman this 2011 comedy has jamie lee curtis signorney weaver kristen bell and betty white against each other in a war of she said she said,"['jamie lee curtis', 'signorney weaver', 'kristen bell', 'betty white']",[],0
 what musical tells the story of a family living in missouri at the time of the louisiana purchase exposition world s fair in 1904,[],[],1
 what is the film where robert deniro who befriends a prostitute and plots to kill a presidential candidate,['robert deniro'],[],0
 what akira kurosawa film is built around multiple tellings of a violent rape in the japanese countryside,[],['akira kurosawa'],1
@@ -741,7 +741,7 @@ i am thinking of the second installment of a comedic science fiction film that i
 what 1969 romantic comedy musical film was based on the broadway production of the same name,[],[],1
 what is comedy drama that stars joesph gordon levitt as a cancer patient that deals with his cancer while still maintaining his life,['joesph gordon levitt'],[],1
 what sam mendes directed oscar winner shows the audience how one man s depression can lead to his obsession with a much younger girl,[],['sam mendes'],1
-this is a 1996 movie that starred ralph fiennes juliette binoche and willem dafoe involving a world war ii plane crash victim,"['ralph fiennes juliette binoche', 'willem dafoe']",[],1
+this is a 1996 movie that starred ralph fiennes juliette binoche and willem dafoe involving a world war ii plane crash victim,"['ralph fiennes', 'juliette binoche', 'willem dafoe']",[],1
 in 2002 this soccer film starred parminder nagra and keira knightley,"['parminder nagra', 'keira knightley']",[],1
 do you know the horror movie based on the idea of a lot of mutated killer fish,[],[],0
 what is the western starring henry fonda which is about lynching men believed to be cattle rustlers,['henry fonda'],[],0
@@ -796,7 +796,7 @@ when a criminal mastermind uses a trio of orphan girls as pawns for a grand sche
 this movie is an early 80 s cult favorite starring emilio estevez and harry dean stanton,"['emilio estevez', 'harry dean stanton']",[],1
 i m thinking of a dramatic film starring ryan o neal and ali macgraw as a star crossed and ill fated couple,"['ryan o neal', 'ali macgraw']",[],1
 what s the name of that movie where george c scoot plays a tough foul mouthed general during wwii,['george c scoot'],[],0
-which stanley kubrick stephen king concoction starred jack nicholson who delivers a chilling performance as a sequestered innkeeper,['jack nicholson'],['stanley kubrick stephen king'],1
+which stanley kubrick stephen king concoction starred jack nicholson who delivers a chilling performance as a sequestered innkeeper,['jack nicholson'],"['stanley kubrick', 'stephen king']",1
 i am thinking of the film where the thief fagin is the ringleader of a group of young pickpockets,[],[],1
 this is a movie about the life of a newspaper tycoon and the mystery surrounding his final words,[],[],1
 what film is about an escape by allied prisoners of war from a german pow camp during world war ii,[],[],1
@@ -849,9 +849,9 @@ what is the comedy where billy crystal and his friends take a vacation out west,
 which movie was directed by james cameron and features arnold schwarzenegger as a android in black sunglasses,['arnold schwarzenegger'],['james cameron'],0
 in what movie did the character played by leonardo dicaprio say i m king of the world,['leonardo dicaprio'],[],1
 i m thinking of the movie that was the first sequel to win an academy award for best picture,[],[],1
-what comedy starring tony curtis jack lemmon and marilyn monroe was named the funniest film of all time by the american film institute,"['tony curtis jack lemmon', 'marilyn monroe']",[],1
+what comedy starring tony curtis jack lemmon and marilyn monroe was named the funniest film of all time by the american film institute,"['tony curtis', 'jack lemmon', 'marilyn monroe']",[],1
 which james cameron film took place on pandora a fictional satellite orbiting the star alpha centauri,[],['james cameron'],0
-what 1979 movie stars all three john savage treat williams beverly d angelo,['john savage treat williams beverly d angelo'],[],1
+what 1979 movie stars all three john savage treat williams beverly d angelo,"['john savage', 'treat williams',' beverly d angelo']",[],1
 movie about horses based on a book written by anna sewell,[],[],1
 what s the disney movie where a princess is kidnapped by a monstrous creature and ends up falling in love with him and breaking the curse upon him revealing that he is really a handsome prince,[],[],1
 what is that 2011 action film directed by justin lin that was the fifth movie in a series that started with the fast and the furious,[],['justin lin'],1
@@ -861,7 +861,7 @@ which 1939 classic features the adventures of a kansas girl who is transported b
 what s that older pacino movie where he s a cuban refugee with this player friend and pacino gets really big and powerful and ultimately gets killed,[],[],0
 the russel brand movie where he basically plays himself and jonah hill tries to get him to some theater,"['russel brand', 'jonah hill']",[],0
 i m looking for the hit romantic comedy about a single woman who falls in love while she is pregnant by artificial insemination,[],[],0
-what is the 1990 movie in which robert de niro ray liotta and joe pesci work as mobsters,"['robert de niro ray liotta', 'joe pesci']",[],1
+what is the 1990 movie in which robert de niro ray liotta and joe pesci work as mobsters,"['robert de niro', 'ray liotta', 'joe pesci']",[],1
 what is the movie where a kid is a hostage for robbing a bank for two guys in monkey suits,[],[],0
 this revolutionary 3 d film tells the tale of a strange alien species on a far off planet and the humans who attempt to learn their ways,[],[],1
 what 1999 bruce willis film gave rise to director m night shyamalan s reputation as a master of twist endings,['bruce willis'],['m night shyamalan'],1
@@ -965,7 +965,7 @@ what is the horror thriller about a young girl going to live with her father in 
 i m thinking of a movie where a family goes on vacation but leaves their youngest child behind,[],[],0
 what s the comedy that teams up bruce willis and traci morgan as mismatched police officers,"['bruce willis', 'traci morgan']",[],1
 judy garland leads in this 1939 film about a girl who falls into a dream of a different world where she meets many different characters including munchkins witches a tin man lion and a scarecrow,['judy garland'],[],1
-what is that 2010 american crime drama film starring richard gere don cheadle and directed by antoine fuqua,['richard gere don cheadle'],['antoine fuqua'],1
+what is that 2010 american crime drama film starring richard gere don cheadle and directed by antoine fuqua,"['richard gere','don cheadle']",['antoine fuqua'],1
 tom hulce portrayed a classical composer facing his demons and creating musical masterpieces as told in this 1984 film,['tom hulce'],[],1
 a supervillian who has finally defeated a superhero and now has to find a new meaning to his life,[],[],1
 many call this film starring bruce willis as an off duty detective having a very bad day the original action film,['bruce willis'],[],0
@@ -1032,7 +1032,7 @@ what film did spike lee direct about the life of a controversial civil rights ac
 this movie is the third iteration of a horror movie that involves spirits murdering people at night while they sleep,[],[],0
 what 2010 movie starring channing tatum and amanda seyfried is based on a nicholas sparks novel,"['channing tatum', 'amanda seyfried']",[],1
 although this is the first movie made featuring hannibal the cannibal it is actually the second story in thomas harris novels featuring that character,[],[],0
-what is that comedy parody film about ancient times starring james franco danny mcbride and natalie portman,['james franco danny mcbride and natalie portman'],[],1
+what is that comedy parody film about ancient times starring james franco danny mcbride and natalie portman,"['james franco', 'danny mcbride',' natalie portman']",[],1
 who s the main character in this movie,[],[],1
 what s that classic hollywood movie which is basically a re telling of the book of exodus,[],[],0
 what is the 1988 comedy starring john cleese about the aftermath of a jewel robbery,['john cleese'],[],1
@@ -1065,7 +1065,7 @@ what 1941 humphrey bogart film concerned the search for the stuff that dreams ar
 margaret hamilton a life long fan of the frank baum books was ecstatic when she learned the producers were considering her for the role of the witch in this classic,['margaret hamilton'],[],1
 this is a 1963 movie about pows escaping from a german camp that stars steve mcqueen,['steve mcqueen'],[],1
 this is the third movie in a series of adventures in middle earth and is rooted in tolkein s writings,[],[],1
-a 2009 animated movie by 20 th century fox starring ray romano john leguizamo and denis leary,"['ray romano john leguizamo', 'denis leary']",[],1
+a 2009 animated movie by 20 th century fox starring ray romano john leguizamo and denis leary,"['ray romano', 'john leguizamo', 'denis leary']",[],1
 a zucker brothers takeoff of 1970 s disaster films this screwball film features leslie nielsen and nba legend kareem abdul jabaar as others making appearances aboard a flight gone awry,"['leslie nielsen', 'kareem abdul jabaar']",['zucker brothers'],1
 the third in it s series this movie features a nerdy wizard who s uncle has escaped from prison,[],[],1
 in what movie does a teenage boy commit himself to a psychiatric ward in a hospital where he unexpectedly makes new friends and falls in love with one of the other patients,[],[],1
@@ -1163,7 +1163,7 @@ irving berlin s song white christmas was written for this 1942 movie starring bi
 in what movie starred judy garland wearing ruby slippers,['judy garland'],[],1
 what is the 2012 movie where a girl gets a job at her cousin s bail bond business,[],[],0
 what is the name of the new tarantino movie with jamie fox acting as a freed slave,['jamie fox'],['tarantino'],0
-a 2010 movie directed by christopher nolan starring joseph gordon levitt ellen page and leonardo dicaprio,"['joseph gordon levitt ellen page', 'leonardo dicaprio']",['christopher nolan'],1
+a 2010 movie directed by christopher nolan starring joseph gordon levitt ellen page and leonardo dicaprio,"['joseph gordon', 'levitt ellen page', 'leonardo dicaprio']",['christopher nolan'],1
 i m thinking about a 1940 s black and white movie that follows different soldiers after they come back from world war ii,[],[],1
 what is the movie starring jim carey as the grumpy villain who plots to stop christmas from coming,['jim carey'],[],0
 what is the 2004 american thriller film starring denzel washington and based on the novel of the same name by richard condon,['denzel washington'],[],1
@@ -1198,7 +1198,7 @@ what is the name of the 2009 animated film focusing on a robot child created by 
 based on the similar battle royale and lord of the flies this movie deals with children brutally murdering each other,[],[],0
 i am thinking of a classic film that stars judy garland and features the 1904 world s fair as the backdrop,['judy garland'],[],1
 this arnold schwarzenegger vehicle about suspect memories of mars was recently remade starring collin farrell,"['arnold schwarzenegger', 'collin farrell']",[],0
-what 1983 drama filled movie featured shirley maclaine debra winger and jack nicholson and won five academy awards,"['shirley maclaine debra winger', 'jack nicholson']",[],1
+what 1983 drama filled movie featured shirley maclaine debra winger and jack nicholson and won five academy awards,"['shirley maclaine', 'debra winger', 'jack nicholson']",[],1
 what hit movie told the story of a german businessman who sacrificed everything to save jews he employed,[],[],1
 what 2006 norwegian horror film concerns a group of friends in their late teens going on a snowboard vacation,[],[],1
 what s the movie that is surprisingly based on a non fiction book which gives instruction to soon to be parents,[],[],1
@@ -1209,7 +1209,7 @@ what is the name of the 2006 movie directed by brian robbins that is a remake of
 what is that 1941 american drama film starring and directed by orson welles and considered one of the greatest films of all time,[],['orson welles'],1
 christian bale plays murderous wall street executive patrick bateman in this adaptation of the brett easton ellis novel,['christian bale'],[],1
 what is the drew barrymore movie about a couple who are trying to keep their romance alive although one is in new york and the other is in california,['drew barrymore'],[],1
-in what movie did patrick swayze charlie sheen and lea thompson attempt to fight off invading russians,"['patrick swayze charlie sheen', 'lea thompson']",[],1
+in what movie did patrick swayze charlie sheen and lea thompson attempt to fight off invading russians,"['patrick swayze', 'charlie sheen', 'lea thompson']",[],1
 what s that japanese drama about a guy who finds out he has a terminal lung disease,[],[],0
 what children s movie tells the story of a pig befriended and saved by a kindly spider,[],[],1
 what is a film directed by james cameron and starring arnold schwarzenegger as a protective robot from the future,['arnold schwarzenegger'],['james cameron'],1
@@ -2592,7 +2592,7 @@ in what classic movie does a mad doctor bring a monster to life using electricit
 in what classic movie does humphrey bogart utter the phrase here s looking at you kid,['humphrey bogart'],[],1
 in what comedy adventure film does a pizza delivery man get captured and have a bomb strapped to his chest,[],[],1
 in what comedy does steve carrell travel a post apocalyptic usa with keira knightly to find someone to love,"['steve carrell', 'keira knightly']",[],1
-in what comedy movie does kevin james adam sandler and chris rock attempt to be the responsible parents,"['kevin james adam sandler', 'chris rock']",[],0
+in what comedy movie does kevin james adam sandler and chris rock attempt to be the responsible parents,"['kevin james',' adam sandler', 'chris rock']",[],0
 in what comic book movie does a test pilot named hal jordan need to defend mankind from parallax,[],[],0
 in what computer animated movie does the character woody feel threatened by the newcomer buzz lightyear,[],[],0
 in what disney film does an eccentric woman with fabulous taste try to corral a large number of purebreds to harness their fur,[],['disney'],0
@@ -3845,7 +3845,7 @@ what dr suess story was adapted to film featuring jim carey as the outcast of wh
 what dystopian sci fi movie stared harrison ford chasing down rogue robots known as replicants in the future,['harrison ford'],[],1
 what early 90 s john singleton film stars ice cube and is about the lives of a group of friends in a los angeles ghetto,['ice cube'],['john singleton'],1
 what eli roth film charecterized by many as torture porn is about friends who are kidnapped abroad,[],['eli roth'],0
-what ensemble comedy film starred adam sandler chris rock and david spade as fathers reliving their youths,"['adam sandler chris rock', 'david spade']",[],1
+what ensemble comedy film starred adam sandler chris rock and david spade as fathers reliving their youths,"['adam sandler', 'chris rock', 'david spade']",[],1
 what epic steven spielberg world war 2 film does liam neeson save jews from the nazis,['liam neeson'],['steven spielberg'],1
 what eye catching animated musical had all children singing hakuna matata and i ca n t wait to be king,[],[],1
 what famed black action film starring richard roundtree earned isaac hayes an academy award for best original song,['richard roundtree'],[],1
@@ -4007,7 +4007,7 @@ what is that 2010 superhero action comedy film based on the comic book of the sa
 what is that 2010 superhero action comedy movie based on the comic book of the same name starring nicolas cage as big daddy,['nicolas cage'],[],1
 what is that 2011 american superhero film based on the dc comics character of the same name which stars ryan reynolds and blake lively,"['ryan reynolds', 'blake lively']",[],1
 what is that 2011 biographical sports drama film directed by bennett miller and features brad pitt in the character of billy beane,['brad pitt'],['bennett miller'],1
-what is that 2011 comedy film starring kevin james and featuring the voices of nick nolte sylvester stallone and adam sandler among others,"['kevin james', 'nick nolte sylvester stallone', 'adam sandler']",[],1
+what is that 2011 comedy film starring kevin james and featuring the voices of nick nolte sylvester stallone and adam sandler among others,"['kevin james', 'nick nolte', 'sylvester stallone', 'adam sandler']",[],1
 what is that 2011 movie starring jim carrey as a man that develops a close relationship with a bunch of penguins,['jim carrey'],[],1
 what is that 2011 science fiction film starring daniel craig about an outlaw who has to save a town from aliens,['daniel craig'],[],1
 what is that 2011 science fiction thriller film directed by j j abrams about a group of teenagers that capture on their camera a train derailing and the subsequent events that happen,[],['j j abrams'],1
@@ -4233,7 +4233,7 @@ what is the 2011 film starring anne hathaway and jim sturgess based on the novel
 what is the 2011 movie staring ryan reynolds where a married man and a single man wish that they had each others lives and then it comes true as they are peeing into a fountain,['ryan reynolds'],[],0
 what is the 2011 movie starring ryan reynolds about a man who gets an alien ring that gives him powers,['ryan reynolds'],[],1
 what is the 2011 movie written and directed by woody allen set in beautiful paris,[],['woody allen'],1
-what is the 2011 romantic comedy film starring adam sandler jennifer aniston and brooklyn decker,"['adam sandler jennifer aniston', 'brooklyn decker']",[],1
+what is the 2011 romantic comedy film starring adam sandler jennifer aniston and brooklyn decker,"['adam sandler', 'jennifer aniston', 'brooklyn decker']",[],1
 what is the 2011 romantic comedy film starring russell brand as a very rich man who falls in love with a tour guide played by greta gerwig,"['russell brand', 'greta gerwig']",[],1
 what is the 2012 action crime thriller movie that stars christian bale tom hardy and anne hathaway,"['christian bale tom hardy', 'anne hathaway']",[],1
 what is the 2012 action film about the navy fighting against an evil alien race,[],[],1
@@ -5930,7 +5930,7 @@ i m thinking of the 2012 superhero action adventure directed by joss whedon that
 i m thinking of the al pacino movie that ends with him saying say hello to my little friend with a cuban accent while holding a big gun,['al pacino'],[],1
 i m thinking of the classic 1994 film from quentin tarantino that tells a violent story about gangsters non linearly,[],['quentin tarantino'],1
 i m thinking of the final installment in this magical series in which the characters attended hogwarts,[],[],1
-i m thinking of the first movie of the series that has the cast of arnold schwarzenegger linda hamilton and michael biehn and was released in 1984,"['arnold schwarzenegger linda hamilton', 'michael biehn']",[],1
+i m thinking of the first movie of the series that has the cast of arnold schwarzenegger linda hamilton and michael biehn and was released in 1984,"['arnold schwarzenegger',' linda hamilton', 'michael biehn']",[],1
 i m thinking of the movie based on the crimes of john liste,[],[],1
 i m thinking of the movie that is basically night at the museum in a zoo,[],[],0
 i m thinking of the movie where bill murray lives the same day over and over again,['bill murray'],[],1
@@ -5955,12 +5955,12 @@ i am thinking of that 1995 film starring mel gibson about a scottish warrior nam
 i am thinking of the 1971 crime drama that features jane fonda as prostitute bree daniels,['jane fonda'],[],1
 i am thinking of the 1985 film that features jack nicholson s character as a hit man who falls in love with kathleen turner s character,"['jack nicholson', 'kathleen turner']",[],1
 i am thinking of the 1987 drama that tells the tale of a young british boy who fights to survive when he is separated from his family during the japanese invasion of shanghai,[],[],1
-i am thinking of the 1995 film about a serial killer who places a biblical spin on his killings this film features brad pitt morgan freeman and kevin spacey,"['brad pitt morgan freeman', 'kevin spacey']",[],1
+i am thinking of the 1995 film about a serial killer who places a biblical spin on his killings this film features brad pitt morgan freeman and kevin spacey,"['brad pitt', 'morgan freeman', 'kevin spacey']",[],1
 i am thinking of the 2006 guillermo del toro film that features a faun and a little girl,[],['guillermo del toro'],1
 i am thinking of the 2007 michael bay film that features the story about the autobots the decepticons and the humans caught in between the battle,[],['michael bay'],1
 i am thinking of the australian film that stars mel gibson as an ex law enforcer who battles cycle riding bad guys in a post apocalyptic world,['mel gibson'],[],1
 i am thinking of the classic film that stars a young elizabeth taylor whose character jockeys her horse the pie,['elizabeth taylor'],[],1
-i am thinking of the epic 2012 film that stars an ensemble cast featuring tom hanks halle berry susan sarandon hugh grand and hugo weaving,"['tom hanks halle berry susan sarandon hugh grand', 'hugo weaving']",[],1
+i am thinking of the epic 2012 film that stars an ensemble cast featuring tom hanks halle berry susan sarandon hugh grand and hugo weaving,"['tom hanks', 'halle berry', 'susan sarandon', 'hugh grand', 'hugo weaving']",[],1
 i am thinking of the film dramatization that features the characters attacus finch scout and tom robinson,[],[],1
 i am thinking of the film that tells the story of a bullied young man and how he is taught martial arts and life lessons by a handyman,[],[],1
 i am thinking of the second installment of the wildly popular teen vampire saga based off of the stephenie meyer books,[],[],1
@@ -5992,13 +5992,13 @@ if you love birds you will love this film about two bird enthusiasts competing i
 if you turned on the tv to find a movie with jack black voicing a panda with martial arts abilities what movie would they be playing,['jack black'],[],0
 im thinkin of a movie where three employees decide they can not stand there employer and decide to kill them,[],[],0
 im thinking of a comedy where a bishop trying to get a new cathedral built prays for guidance which stars cary grant and loretta young,"['cary grant', 'loretta young']",[],0
-im thinking of a crime drama that stars dwayne johnson billy bob thornton and maggie grace about an ex con that sets out to avenge his brother s death,"['dwayne johnson billy bob thornton', 'maggie grace']",[],1
-im thinking of a drama that stars mel gibson sissy spacek and shane bailey about a farming family having hard times in a battle to save and hold on to their farm,"['mel gibson sissy spacek', 'shane bailey']",[],1
+im thinking of a crime drama that stars dwayne johnson billy bob thornton and maggie grace about an ex con that sets out to avenge his brother s death,"['dwayne johnson', 'billy bob thornton', 'maggie grace']",[],1
+im thinking of a drama that stars mel gibson sissy spacek and shane bailey about a farming family having hard times in a battle to save and hold on to their farm,"['mel gibson', 'sissy spacek', 'shane bailey']",[],1
 im thinking of a movie where a female assassin that plots revenge on a drug lord that murdered her family when she was little,[],[],0
 im thinking of a movie where wesley snipes stars and david carson directed about a deranged military and former cia agent trying to forget the traumatic loss of his best friend,['wesley snipes'],['david carson'],0
 im thinking of the great sci fi adventure movie about a group of elite warriors are hunted by members of a merciless alien was directed by nimr d antal and released in 2010,[],['nimr d antal'],1
 im thinking of the horror movie that involves a weekend at a lake house in the louisiana gulf released in 2011 and directed by david r ellis,[],['david r ellis'],1
-im thinking of the romance drama starring nien jen wu elaine jin and issei ogata about a family asking hard questions about life s meaning,"['nien jen wu elaine jin', 'issei ogata']",[],1
+im thinking of the romance drama starring nien jen wu elaine jin and issei ogata about a family asking hard questions about life s meaning,"['nien jen wu ', 'elaine jin', 'issei ogata']",[],1
 im thinking of the sci fi horror movie has discovery of an alien craft at an antarctica research site starring mary elizabeth winstead,['mary elizabeth winstead'],[],1
 im thinking of the third installment of the disney ice age series in which the polar caps have begun to melt,[],['disney'],0
 im trying to think of the 1974 war documentary of the conflicting attitudes of the opponents of the vietnam war that was directed by peter davis,[],['peter davis'],0
@@ -6006,7 +6006,7 @@ in 1979 the master of action and suspense ridley scott made which science fictio
 in 1988 young sisters katie and kristi befriend an invisible entity who resides in their home is the plot of this 2011 horror movie sequel,[],[],1
 in 1992 which christmas film starred kermit the frog as bob cratchit gonzo the great as charles dickens and michael caine as ebenezer scrooge,"['kermit the frog', 'gonzo the great', 'michael caine']",[],1
 in 1994 what action crime thriller was released that starred keanu reeves where an evil mastermind got involved with public transportation i m thinking of a fast paced movie in which sandra bullock is a common bus driver and becomes responsible for more lives than her own,"['keanu reeves', 'sandra bullock']",[],1
-in 1999 the wachowski siblings brought keanu reeves carrie ann moss and lawrence fishburne together in which all out action extravaganza,"['keanu reeves carrie ann moss', 'lawrence fishburne']",['wachowski siblings'],1
+in 1999 the wachowski siblings brought keanu reeves carrie ann moss and lawrence fishburne together in which all out action extravaganza,"['keanu reeves', 'carrie ann moss', 'lawrence fishburne']",['wachowski siblings'],1
 in 2005 director christopher nolan rebooted a legendary dc comics superhero with a darker grittier edge in which movie,[],['christopher nolan'],1
 in 2011 what raunchy comedy was released with four friends attempting to have a bachelor party in thailand where nothing seems to go right i m thinking of a movie where star character stu ed helms wakes up with a tattoo on his face made popular by mike tyson,['ed helms'],[],0
 in 2012 what movie about aliens in the suburbs did ben stiller and vince vaughn star in,"['ben stiller', 'vince vaughn']",[],0
@@ -7083,7 +7083,7 @@ what 2012 thriller depicts a police force in a midwestern town searching for a k
 what 2012 thriller finds a police psychologist trying to talk down an ex con from jumping off a manhattan hotel while a diamond heist is being committed,[],[],0
 what 2012 thriller finds retired cia operative bryan mills played by liam neeson and his wife played by famke janssen taken hostage,"['liam neeson', 'famke janssen']",[],1
 what 2012 tim story directed romantic comedy features four friends who turn the tables on their women,[],['tim story'],1
-what 2012 todd lincoln horror thriller starred ashley greene sebastian stan julianna guilll and tom felton,"['ashley greene sebastian stan julianna guilll', 'tom felton']",['todd lincoln'],1
+what 2012 todd lincoln horror thriller starred ashley greene sebastian stan julianna guilll and tom felton,"['ashley greene', 'sebastian stan', 'julianna guilll', 'tom felton']",['todd lincoln'],1
 what 2012 tyler perry comedy centered around a wall street investment banker who has been set up as the fall guy in his company s ponzi scheme,[],['tyler perry'],1
 what 2012 tyler perry movie features thandie newton as a homeless mother working as a cleaning lady,['thandie newton'],['tyler perry'],0
 what academy award winning film is based on the story of oakland a s general manager billy beane,[],[],1
@@ -7190,13 +7190,13 @@ what is that 2012 american fantasy comedy film directed by seth macfarlane and s
 what is that 2012 american war movie which starred real life us navy seals and directed by mike mccoy and scott waugh,[],"['mike mccoy', 'scott waugh']",1
 what is that 2012 movie that stars liam neeson as zeus and ralph fiennes as hades,"['liam neeson', 'ralph fiennes']",[],1
 what is that 2012 musical comedy film directed by jason moore and features an ensemble cast including anna kendrick and alexis knapp,"['anna kendrick', 'alexis knapp']",['jason moore'],1
-what is that 2012 sports drama film starring clint eastwood justin timberlake and amy adams which is about an old baseball scout,"['clint eastwood justin timberlake', 'amy adams']",[],1
+what is that 2012 sports drama film starring clint eastwood justin timberlake and amy adams which is about an old baseball scout,"['clint eastwood', 'justin timberlake', 'amy adams']",[],1
 what is that ang lee directed epic wuxia film starring chow yun fatt that won an academy award for best foreign film,['chow yun fatt'],['ang lee'],1
 what is that breakthrough movie starring jon heder as a young teen who is awkward and has to deal with high school life,['jon heder'],[],1
 what is that comedy film starring jon heder in a breakout role as an awkward teen and details his adventures in high school,['jon heder'],[],1
 what is that comedy movie starring steve carell as a hapless man who finds himself separated from his wife and learning how to pick up chicks from ryan gosling,"['steve carell', 'ryan gosling']",[],0
-what is that ensemble comedy film starring jason bateman colin farrell kevin spacey and jennifer aniston among others about people who have difficult managers,"['jason bateman colin farrell kevin spacey', 'jennifer aniston']",[],1
-what is that ensemble movie starring many actors including ashton kutcher zach efron jon bon jovi sofia vergara about what happened the day before the start of a new year,['ashton kutcher zach efron jon bon jovi sofia vergara'],[],1
+what is that ensemble comedy film starring jason bateman colin farrell kevin spacey and jennifer aniston among others about people who have difficult managers,"['jason bateman', 'colin farrell', 'kevin spacey', 'jennifer aniston']",[],1
+what is that ensemble movie starring many actors including ashton kutcher zach efron jon bon jovi sofia vergara about what happened the day before the start of a new year,"['ashton kutcher', 'zach efron', jon bon jovi', 'sofia vergara']",[],1
 what is that female ensemble movie starring kristen wiig that has to attend the wedding of her best friend played by maya rudolph,"['kristen wiig', 'maya rudolph']",[],0
 what is that film starring tom hanks as a recently widowed man who ultimately falls in love with meg ryan s character and they meet for the first time in the empire state building,"['tom hanks', 'meg ryan']",[],1
 what is that first movie in a series starring macaulay culkin as a young boy who is left behind by his family in their house and who has to outwit some bandits,['macaulay culkin'],[],1
@@ -7243,7 +7243,7 @@ what is that thriller film starring brad pitt and morgan freeman as two men hunt
 what is that woody allen directed film starring owen wilson as an american who finds himself transported to paris in the 1920 s,['owen wilson'],['woody allen'],1
 what is that woody allen directed movie starring owen wilson as an american man who gets transported to 1920 s paris,['owen wilson'],['woody allen'],1
 what is the 90 s movie featuring arnold schwarzenegger as a secret agent who has never told his wife jamie lee curtis what he does,"['arnold schwarzenegger', 'jamie lee curtis']",[],1
-what is the 1934 american drama movie directed by philip moeller and starring irene dunne john boles and lionel atwill,"['irene dunne john boles', 'lionel atwill']",['philip moeller'],1
+what is the 1934 american drama movie directed by philip moeller and starring irene dunne john boles and lionel atwill,"['irene dunne', 'john boles', 'lionel atwill']",['philip moeller'],1
 what is the 1934 american romantic comedy starring clark cable and claudette colbert and directed by frank capra,"['clark cable', 'claudette colbert']",['frank capra'],1
 what is the 1935 american comedy film opera singer riccardo baroni wishes to be just as good as lassparri and hires his best friend to be his manager,[],[],1
 what is the 1942 musical film staring bing crosby and fred astaire with music by irving berlin,"['bing crosby', 'fred astaire']",[],1
@@ -7273,7 +7273,7 @@ what is the 2000 critically acclaimed ang lee movie starring yun fat chow where 
 what is the 2001 johnny depp and penelope cruz movie about the man who created the cocaine market in usa,"['johnny depp', 'penelope cruz']",[],1
 what is the 2001 russell crowe movie about the math whiz whose life gets turned upside down,['russell crowe'],[],1
 what is the 2004 horror film about victims chained in a bathroom and given rules to survive by a serial killer named jigsaw,[],[],0
-what is the 2006 american period drama film starring paul giamatti jessica biel and edward norton,"['paul giamatti jessica biel', 'edward norton']",[],1
+what is the 2006 american period drama film starring paul giamatti jessica biel and edward norton,"['paul giamatti', 'jessica biel', 'edward norton']",[],1
 what is the 2006 movie with jessical biel about a magician with special abilities in vienna,['jessical biel'],[],1
 what is the 2009 american drama film which marks the acting debut of gabourey sidibe who plays the title character,['gabourey sidibe'],[],1
 what is the 2009 australian clay animated movie featuring the voices of eric bana and toni collette and directed by adam elliot,"['eric bana', 'toni collette']",['adam elliot'],1
@@ -7356,7 +7356,7 @@ what is the family comedy that is really good to watch at christmas time that ha
 what is the famous cult classic movie about the girl whose first love returns in the form of a pirate to kidnap her from the man she is about to marry,[],[],1
 what is the famous cult classic movie with samuel jackson and john travolta dances with uma thurman in a well known scene,"['samuel jackson', 'john travolta', 'uma thurman']",[],1
 what is the famous humphrey bogart movie with the popular quote here s looking at you kid,['humphrey bogart'],[],1
-what is the fantasy drama released in 1985 starring matthew broderick rutger hauer and michelle pfeiffer about a thief escaping a dungeon,"['matthew broderick rutger hauer', 'michelle pfeiffer']",[],1
+what is the fantasy drama released in 1985 starring matthew broderick rutger hauer and michelle pfeiffer about a thief escaping a dungeon,"['matthew broderick', 'rutger hauer', 'michelle pfeiffer']",[],1
 what is the fantasy romance movie about a new york teen is transformed into a hideous monster in order to find true love and stars alex pettyfer and vanessa hudgens,"['alex pettyfer', 'vanessa hudgens']",[],0
 what is the film about two athletes in the 1924 olympics that won the best picture oscar award at the 54 th academy awards,[],[],1
 what is the film featuring jim carrey and kate winslet in which they try to have their memories erased after ending their relationship,"['jim carrey', 'kate winslet']",[],0
@@ -7388,7 +7388,7 @@ what is the movie about the making of facebook starring justin timberlake and je
 what is the movie about the two guys who fall in love with the same woman that is a french movie from the 60 s,[],[],0
 what is the movie about the two lions in africa that killed a bunch of people in the late 1800 s starring val kilmer,['val kilmer'],[],1
 what is the movie about zach galifianakis and will ferrell are running for president,"['zach galifianakis', 'will ferrell']",[],1
-what is the movie action animated adventure that was released in 2009 and directed by carlos saldanha and mike thurmeier while some of the cast include ray romano john leguizamo and denis leary,"['ray romano john leguizamo', 'denis leary']","['carlos saldanha', 'mike thurmeier']",1
+what is the movie action animated adventure that was released in 2009 and directed by carlos saldanha and mike thurmeier while some of the cast include ray romano john leguizamo and denis leary,"['ray romano', 'john leguizamo', 'denis leary']","['carlos saldanha', 'mike thurmeier']",1
 what is the movie based on a fairy tale with kristen stewart the evil witch played by charlize theron,"['kristen stewart', 'charlize theron']",[],1
 what is the movie based on a shakespeare play about a king and his daughters,[],[],0
 what is the movie based on actual events where a ship crashes into an iceberg,[],[],0
@@ -7400,7 +7400,7 @@ what is the movie from the 60 s that has rita moreno and is about star crossed l
 what is the movie in which john wayne played a one eyed marshal helping a young girl find her father s killer,['john wayne'],[],1
 what is the movie made in 1984 about a famous heavy metal band on a fateful tour documented by rob reiner,[],['rob reiner'],1
 what is the movie released in 2010 with one of ryan dunns final appearances and a ton of ridiculous stunts,['ryan dunns'],[],0
-what is the movie released in 2012 about a surfer enlists the help of local legend starring jonny weston gerard butler and elisabeth shue,"['jonny weston gerard butler', 'elisabeth shue']",[],1
+what is the movie released in 2012 about a surfer enlists the help of local legend starring jonny weston gerard butler and elisabeth shue,"['jonny weston', 'gerard butler', 'elisabeth shue']",[],1
 what is the movie remake of one of william shakespheare s classic tragedies starring kenneth brannaugh and kate winslet,"['kenneth brannaugh', 'kate winslet']",[],0
 what is the movie starring adam sandler and they are in jail and play football against the guards,['adam sandler'],[],0
 what is the movie starring adrien brody as a scientist who combines the dna of different animals to create a new hybrid animal,['adrien brody'],[],1
@@ -7412,10 +7412,10 @@ what is the movie starring matt damon in iraq where he discovers faulty intellig
 what is the movie starring russell crowe as the brilliant mathematician john nash and directed by ron howard,['russell crowe'],['ron howard'],1
 what is the movie that clint eastwood is well known for that was made in 1966 about cowboys in the west,['clint eastwood'],[],1
 what is the movie that features animated lions in africa where the king of the land dies and his son runs away,[],[],1
-what is the movie that has couples and singles in new york has their lives intertwining over the course of one night and stars michelle pfeiffer zac efron halle berry and many more known actors,['michelle pfeiffer zac efron halle berry'],[],1
+what is the movie that has couples and singles in new york has their lives intertwining over the course of one night and stars michelle pfeiffer zac efron halle berry and many more known actors,"['michelle pfeiffer', 'zac efron', 'halle berry']",[],1
 what is the movie that has the young male pop star and he is performing a live concert,[],[],1
 what is the movie that puts daniel craig as a cowboy trying to save the world from aliens,['daniel craig'],[],1
-what is the movie that stars the awesome cast of mel gibson danny glover and gary busey that was full of action released in 1987,"['mel gibson danny glover', 'gary busey']",[],1
+what is the movie that stars the awesome cast of mel gibson danny glover and gary busey that was full of action released in 1987,"['mel gibson', 'danny glover', 'gary busey']",[],1
 what is the movie that was a remake of an old movie about a women who falls in love with the rich house owner,[],[],0
 what is the movie where a father and his estranged son travel around the country with their boxing robot to try and regain the glory the father knew when he was a boxer,[],[],0
 what is the movie where a horse that is newly born takes over the horse racing scene,[],[],1
@@ -7438,7 +7438,7 @@ what is the movie with marlon brando from the 50 s where he works on the docks,[
 what is the movie with steve carrell in which his wife cheats on him with kevin bacon and he tries to win her back,"['steve carrell', 'kevin bacon']",[],0
 what is the movie with the rock and that guy who plays peeta mellark on hunger games,['the rock'],[],1
 what is the movie with tina fey and steve carell in which they play a boring married couple whose regular date night gets messed up,"['tina fey', 'steve carell']",[],0
-what is the musical romance starring judy garland james mason and jack carson about a movie star helps a young singer actress find fame,"['judy garland james mason', 'jack carson']",[],1
+what is the musical romance starring judy garland james mason and jack carson about a movie star helps a young singer actress find fame,"['judy garland', 'james mason', 'jack carson']",[],1
 what is the name of a disney sequel featuring a cast of different talking automobiles,[],['disney'],0
 what is the name of lewis carrol s famous psychedelic fairy tale most recently adapted by tim burton,[],['tim burton'],1
 what is the name of one of paul rudd s latest movies that is a comedy and deals with age,['paul rudd'],[],1
@@ -7454,7 +7454,7 @@ what is the name of the 1978 movie where jill clayburgh plays a wealthy woman fr
 what is the name of the 1982 movie where rick deckard has to track down replicants who hijacked a ship in space and terminate them before they returned to earth to seek their maker,[],[],0
 what is the name of the 1994 movies directed by george seaton and is about an old man,[],['george seaton'],1
 what is the name of the 2010 disney movie in which mandy moore voice the character rapunzel,['mandy moore'],['disney'],1
-what is the name of the 2010 medical drama film starring brendan fraser harrison ford and keri russell,"['brendan fraser harrison ford', 'keri russell']",[],0
+what is the name of the 2010 medical drama film starring brendan fraser harrison ford and keri russell,"['brendan fraser', 'harrison ford', 'keri russell']",[],0
 what is the name of the 2010 psychological thriller directed by darren aronofsky and starring natalie portman,['natalie portman'],['darren aronofsky'],1
 what is the name of the 80 s movie about mozart that had a hit song with the same name,[],[],0
 what is the name of the 90 s movie about these astronauts that are stuck in space and have to be saved and is based on a true story,[],[],1
@@ -7484,7 +7484,7 @@ what is the name of the movie from 2012 that has a detective with a sidekick tha
 what is the name of the movie from the 1050 s where a man and woman float down a river in a boat and find all kinds of adventures,[],[],1
 what is the name of the movie from the 2000 s that is named after a shoe an is about fashion,[],[],0
 what is the name of the movie in which a boy must try to defeat the seven evil exes of the girl he likes in order to win her heart,[],[],1
-what is the name of the movie in which christina aguilera pink mya and lil kim collaborated for the lead music track of the film,"['christina aguilera pink mya', 'lil kim']",[],0
+what is the name of the movie in which christina aguilera pink mya and lil kim collaborated for the lead music track of the film,"['christina aguilera',' pink mya', 'lil kim']",[],0
 what is the name of the movie in which gandalf and aragorn lead an army against sauron s army so frodo and same can get to mount doom,[],[],0
 what is the name of the movie out of the dc comic universe in which the main character s weakness is kryptonite,[],[],0
 what is the name of the movie sequel following new york street dancers as they face off against hip hop dancers,[],[],0
@@ -7495,9 +7495,9 @@ what is the name of the movie that had a hideously disfigured masked dude who li
 what is the name of the movie that is about the ruler of england overcoming a speech impediment,[],[],1
 what is the name of the movie that is based on the greek myth of perseus,[],[],0
 what is the name of the movie that is directed by terry gilliam and is about a bureaucrat in a retro future world tries to correct an administrative error and himself becomes an enemy of the state,[],['terry gilliam'],0
-what is the name of the movie that is the first in the series staring uma thurman david carradine and daryl hannah while being directed by quentin tarantino in 2003,"['uma thurman david carradine', 'daryl hannah']",['quentin tarantino'],1
+what is the name of the movie that is the first in the series staring uma thurman david carradine and daryl hannah while being directed by quentin tarantino in 2003,"['uma thurman', 'david carradine', 'daryl hannah']",['quentin tarantino'],1
 what is the name of the movie that joins a bunch of aging action movie starts together,[],[],0
-what is the name of the movie that stars robert de niro kenneth branagh and helena bonham carter about a popular created man based on mary shelley s character,"['robert de niro kenneth branagh', 'helena bonham carter']",[],1
+what is the name of the movie that stars robert de niro kenneth branagh and helena bonham carter about a popular created man based on mary shelley s character,"['robert de niro', 'kenneth branagh', 'helena bonham carter']",[],1
 what is the name of the movie that was remade in 2011 about a town that banned rock music and dancing,[],[],0
 what is the name of the movie where a bike messenger picks up an envelope that attracts the interest of a dirty cop,[],[],0
 what is the name of the movie where a wife and husband can not concieve but decide to plant a box with what their perfect child would be in the garden and the next day a child is grown out of the garden,[],[],1
@@ -7513,7 +7513,7 @@ what is the name of the second movie in the trilogy of the lord of the rings,[],
 what is the name of the sequel in which there s a high tech war going on between cats and dogs that humans do n t know about,[],[],0
 what is the name of the sequel to a recent children s movie where their caretaker has a very ugly face,[],[],0
 what is the name of the silly comedy with natalie portman and james franco that takes place in mid evil times,"['natalie portman', 'james franco']",[],0
-what is the name of the ultimate action movie starring sylvester stallone jason statham mickey rourke jet li bruce willis and arnold schwarzenegger,"['sylvester stallone jason statham mickey rourke jet li bruce willis', 'arnold schwarzenegger']",[],1
+what is the name of the ultimate action movie starring sylvester stallone jason statham mickey rourke jet li bruce willis and arnold schwarzenegger,"['sylvester stallone', 'jason statham', 'mickey rourke', 'jet li', 'bruce willis', 'arnold schwarzenegger']",[],1
 what is the name of this 2011 film that features a charismatic pirate on the trail of eternal youth,[],[],1
 what is the name of this action packed feature that blended the old west with th galactic future that involved saloon and space weapon armbands,[],[],1
 what is the name of this classic movie set at a remote hotel featuring a typewriter with the words all work and no play make jack a dull boy,[],[],0
@@ -7531,7 +7531,7 @@ what is the post apocalyptic movie with mel gibson where he wants revenge for hi
 what is the quentin tarantino and tony scott movie about the southern prostitute and her husband who steal a bunch of cocaine from her pimp,[],"['quentin tarantino', 'tony scott']",1
 what is the quentin tarantino movie about the group of guys are involved in a jewelry heist,[],['quentin tarantino'],0
 what is the reboot of a popular marvel movie franchise with james mcavoy as a young professor x and michael fassbender as a young magneto,"['james mcavoy', 'michael fassbender']",['marvel'],1
-what is the romance movie from 1937 that stars barbara stanwyck john boles and anne shirley involves a woman marrying and he tries to change her,"['barbara stanwyck john boles', 'anne shirley']",[],1
+what is the romance movie from 1937 that stars barbara stanwyck john boles and anne shirley involves a woman marrying and he tries to change her,"['barbara stanwyck', 'john boles', 'anne shirley']",[],1
 what is the romance movie with rachel mcadams and channing tatum about a wife who loses all memory of her husband,"['rachel mcadams', 'channing tatum']",[],1
 what is the second installment of the epic tolkien trilogy that is directed by peter jackson,[],['peter jackson'],1
 what is the second movie emma thompson starred in where she played a knock off of mary poppins,['emma thompson'],[],1
@@ -7541,7 +7541,7 @@ what is the sequel to marvel s comic book motorcycle riding chain whipping hero 
 what is the sequel to the animated family film about a penguin born without the ability to sing but with a talent for dancing,[],[],0
 what is the sequel to the science fiction movie with sigourney weaver returning as ellen ripley,['sigourney weaver'],[],1
 what is the sequel to the superhero movie starring robert downey jr as a billionaire who builds a coat of armor to fight enemies,['robert downey jr'],[],1
-what is the sequel to the sylvester stallone movies that star at least 8 well known action stars jason statham jet li jean claude van damme bruce willis arnold schwarzenegger chuck norris terry crews,"['sylvester stallone', 'jason statham jet li jean claude van damme bruce willis arnold schwarzenegger chuck norris terry crews']",[],1
+what is the sequel to the sylvester stallone movies that star at least 8 well known action stars jason statham jet li jean claude van damme bruce willis arnold schwarzenegger chuck norris terry crews,"['sylvester stallone', 'jason statham', 'jet li', 'jean claude',' van damme',' bruce willis', 'arnold schwarzenegger', 'chuck norris', 'terry crews']",[],1
 what is the steven spielberg directed movie set in world war ii about a german man played by liam neeson who helps the jews,['liam neeson'],['steven spielberg'],1
 what is the super popular war movie with tom hanks and matt damon in which three of four brothers die in the war,"['tom hanks', 'matt damon']",[],1
 what is the sword and sorcery 2011 movie directed by marcus nispel starring jason momoa and rachel nichols,"['jason momoa', 'rachel nichols']",['marcus nispel'],1
@@ -7756,11 +7756,11 @@ which film stars steve carrell as a middle aged divorced man trying to find love
 which film was labeled as the first english film version of a masterpiece work of literature by leo tolstoy,[],[],1
 which film was quirky director wes anderson s foray into the world of author roald dahl and hand crafted stop motion filmmaking,[],['wes anderson'],1
 which francis ford coppola movie was the one about the mob family called with al pacino in it,['al pacino'],['francis ford coppola'],1
-which francis ford coppola directed movie featured robert deniro playing a young don corleone in sicily,['robert deniro'],['francis ford coppola directed'],1
+which francis ford coppola directed movie featured robert deniro playing a young don corleone in sicily,['robert deniro'],['francis ford coppola'],1
 which hayao miyazaki animated film tells the story of a girl who enters an alternate reality and must find her way to freedom,[],['hayao miyazaki'],1
 which hitchcock film features jimmy stewart as a man confined to his wheel chair with a broken leg who sees what he believes to be a murder through his window,['jimmy stewart'],['hitchcock'],0
 which horror film starring daniel radcliffe features a town terrorized by a woman who kills children in order to revenge her own lost son,['daniel radcliffe'],[],1
-which horse racing film produced by disney featured performances by john malkovich diane lane and margo martindale,"['john malkovich diane lane', 'margo martindale']",['disney'],1
+which horse racing film produced by disney featured performances by john malkovich diane lane and margo martindale,"['john malkovich',' diane lane', 'margo martindale']",['disney'],1
 which iconic detective movie has a young clint eastwood uttering the words make my day,['clint eastwood'],[],1
 which intelligent crime film earned kevin spacey high praise and an academy award for best supporting actor,['kevin spacey'],[],1
 which is the movie based on a book by c s lewis featuring the pevensie children as they try to rescue the seven lords of narnia,[],[],1
@@ -7787,7 +7787,7 @@ which period drama centered around music features rival composers competing agai
 which quentin tarantino film told the story of two attempts to assassinate political leaders in nazi germany,[],['quentin tarantino'],1
 which roman polanski film features ewan macgregor as a man tasked with completing the memoirs of a former prime minister,['ewan macgregor'],['roman polanski'],1
 which stanley kubrick satire features nuclear bombs the end of the world and comedy filmed in black and white,[],['stanley kubrick'],1
-which steven soderbergh film explores the illegal drug trade from varying perspectives and features catherine zeta jones don cheadle and benecio del toro,"['catherine zeta jones don cheadle', 'benecio del toro']",['steven soderbergh'],1
+which steven soderbergh film explores the illegal drug trade from varying perspectives and features catherine zeta jones don cheadle and benecio del toro,"['catherine zeta jones', 'don cheadle', 'benecio del toro']",['steven soderbergh'],1
 which steven spielberg film featured an alien who crash landed on earth and just wanted to find his way home,[],['steven spielberg'],0
 which steven spielberg film stars tom hanks as a man tasked with rescuing a solider played by matt damon,"['tom hanks', 'matt damon']",['steven spielberg'],1
 which steven spielberg film tells the story of a german businessman who saved the lives of nearly a thousand jews during world war 2,[],['steven spielberg'],1
@@ -7804,7 +7804,7 @@ will ferrell and mark wahlberg are two mismatched new york city detectives in th
 will forte plays an ex special operative trying to stop his arch enemy dieter von cunth from destroying washington d c,['will forte'],[],1
 will smith and tommy lee jones return for another action packed alien film in this 2012 flick,"['will smith', 'tommy lee jones']",[],1
 william brent bell wrote and directed this 2012 horror movie about a series of unauthorized exorcisms in italy,[],['william brent bell'],1
-winona ryder is a girl who half heartedly tries to be part of the in crowd of her school when she meets a rebel who teaches her a more devious way to play social politics in this 1988 comedy drama,"['winona ryder', 'a girl who half heartedly']",[],0
+winona ryder is a girl who half heartedly tries to be part of the in crowd of her school when she meets a rebel who teaches her a more devious way to play social politics in this 1988 comedy drama,['winona ryder'],[],0
 woody allen directed this 1971 comedy starring mickey rose and woody allen,"['mickey rose', 'woody allen']",['woody allen'],1
 woody is certain there must be some mistake when he and his friends find themselves at a child s day care in the latest installment of this series,[],[],0
 you are living in the pacific northwest and forming a group of neighbors to hold back the invading north koreans what movie are you in,[],[],1
